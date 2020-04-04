@@ -1,17 +1,17 @@
 # main links links
 main:
         
-  - title: "Work"
+  - title: "Portfolio"
     url: /portfolio/
     
   - title: "Blog Posts"
-    url: /aodhanlutetiae.github.io/year-archive/
+    url: /blog/
     
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /aodhanlutetiae.github.io/cv/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
