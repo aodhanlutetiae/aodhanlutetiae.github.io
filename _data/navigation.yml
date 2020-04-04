@@ -10,8 +10,8 @@ main:
   - title: "COVID19"
     url: /covid19/ 
     
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "covid testing"
+    url: /covid_test/    
     
   - title: "CV"
     url: /cv/
