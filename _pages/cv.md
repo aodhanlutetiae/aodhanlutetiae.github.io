@@ -9,23 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Previous work experience
+======
+* 2016-18: Journalist & News Editor, RFI, Paris
+
+* 2013-2016: Journalism Lecturer, Middlesex University 
+
+* 2012-2016: Journalist & Producer, BBC, London
+
+* 2007-2011: Reporter & Producer, RFI, Paris
+
+* Freelance bylines: The Irish Times, BBC Africa, BBC Radio 4, Quartz, The Independent, France24, Deutsche Welle
+ 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Université Paris IV Sorbonne 2010
+* PG Cert Higher Education, Middlesex University, 2015
+* B. Mus, BA, University College Dublin, 1998
+* Journalism training, BBC, RFI, NUJ.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -54,6 +56,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Contributions
 ======
-* Currently signed in to 43 different slack teams
+* Board member, World Radio Paris
+* 
+* 
+*
