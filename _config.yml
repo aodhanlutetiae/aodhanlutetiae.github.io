@@ -70,13 +70,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
 
 # Site Author
 author:
@@ -93,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aodhanlutetiae/"
+  github           : "aodhanlutetiae/"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +99,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/10440203/aodhanlutetiae"
+  stackoverflow    : "aodhanlutetiae"
   steam            :
   tumblr           :
   twitter          : "@aodhanlutetiae"
