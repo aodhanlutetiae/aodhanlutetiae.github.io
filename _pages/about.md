@@ -14,6 +14,9 @@ What does that invovlve?
 ======
 Hmmm... everything? We work with Python, we look for stories...
 
+Here is a link to a document in the files folder
+https://aodhanlutetiae.github.io/files/leroledelalfabeto.pdf
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
