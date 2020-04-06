@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I teach data journalism in Cardiff University's School of Journalism, Jomec. This means co-running our MSc in Computational Journalism and teaching one-semester courses to undergrad and postgrad journalism students. I used to work in broadcast mainly but have a byline in most formats at this stage. I'm originally from Ireland and came to Cardiff via Paris and London.
+I teach data journalism at Cardiff University's School of Journalism, JOMEC. This means co-running our MSc in Computational Journalism and teaching one-semester courses to undergrad and postgrad journalism students. I used to work in broadcast mainly but have a byline in most formats at this point. I'm originally from Ireland and came to Cardiff via Paris and London and quite a few trips to Africa.
 
-What does that involve?
-======
+
 
 
 
