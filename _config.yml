@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Journalist"
   location         : "Cardiff"
-  employer         : "Cardiff University"
+  employer         : 
   email            : "odonnella4@cardiff.ac.uk"
   uri              :
   bitbucket        :
@@ -97,7 +97,6 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  PGP              : "D40D 2DD9 CCEA B8BC 5EC5 4A51 8873 E468 66DE 26D5"
   soundcloud       :
   stackoverflow    : "10440203/aodhanlutetiae"
   steam            :
@@ -108,6 +107,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  PGP              : "D40D 2DD9 CCEA B8BC 5EC5 4A51 8873 E468 66DE 26D5"
 
 
 # Reading Files
