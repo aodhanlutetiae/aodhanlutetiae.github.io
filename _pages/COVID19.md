@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Previous work experience
 ======
-* THIS IS THE COVID 19 PAGE!!!!
+Where do you begin? The Coronavirus Tech Handbook is a good place. It's a massive (and growing) collection of technological responses to the pandemic.
+
+https://coronavirustechhandbook.com
+
 
