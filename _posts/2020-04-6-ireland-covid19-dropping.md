@@ -1,5 +1,6 @@
 ---
-title: 'Ireland Covid-19 figures drop, but then... they've dropped before'
+title: 'Ireland Covid-19 figures drop, but then - they've dropped before'
+date: 2012-04-06
 tags:
   - Coronavirus
   - Data
