@@ -1,11 +1,12 @@
 ---
-title: 'Ireland Covid-19 figures drop, but then - they've dropped before'
+title: 'Ireland Covid-19 figures drop, but then they've dropped before'
 date: 2012-04-06
 tags:
   - Coronavirus
   - Data
   - Ireland
 ---
+
 
 Figures from the European Centre for Disease Control and Prevention show a drop in cases, and in deaths as of the morning of Sunday April 5. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
