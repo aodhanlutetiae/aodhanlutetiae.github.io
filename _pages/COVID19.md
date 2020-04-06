@@ -13,6 +13,7 @@ redirect_from:
 
 Where do you begin? The Coronavirus Tech Handbook is a good place. It's a massive (and growing) collection of technological responses to the pandemic. I lend a hand to keep the thing organised. Look out for Hackathons, Infographics and Forecasting.
 
-https://coronavirustechhandbook.com
+* [https://coronavirustechhandbook.com](https://coronavirustechhandbook.com)
+
 
 
