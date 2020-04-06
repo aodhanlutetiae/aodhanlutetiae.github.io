@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Journalist"
   location         : "Cardiff"
-  employer         : 
+  employer         : "D40D 2DD9 CCEA B8BC 5EC5 4A51 8873 E468 66DE 26D5"
   email            : "odonnella4@cardiff.ac.uk"
   uri              :
   bitbucket        :
@@ -107,8 +107,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  PGP              : "D40D 2DD9 CCEA B8BC 5EC5 4A51 8873 E468 66DE 26D5"
-
 
 # Reading Files
 include:
@@ -193,7 +191,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -227,7 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
