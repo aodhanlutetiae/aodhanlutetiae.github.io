@@ -6,7 +6,7 @@ tags:
   - Ireland
 ---
 
-## Ireland figures drop, but then...they've dropped before
+## Ireland figures drop, but then... they've dropped before
 
 Figures from the European Centre for Disease Control and Prevention show a drop in cases, and in deaths as of the morning of Sunday April 5. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
@@ -22,4 +22,4 @@ Deaths are, unsurprisingly, correlated and follow the same drop in reported numb
 
 ![Daily cases in Ireland](/images/ireland_deaths_0504.jpg)
 
-* [This is a link to my Covid-10 repo](https://github.com/aodhanlutetiae/covid)
+* [This is a link to my Covid-19 repo](https://github.com/aodhanlutetiae/covid)
