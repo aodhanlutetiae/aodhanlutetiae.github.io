@@ -1,20 +1,14 @@
 # main links links
 main:
         
-  - title: "Portfolio"
+  - title: "Work"
     url: /portfolio/
     
   - title: "Blog Posts"
     url: /year-archive/
  
   - title: "COVID19"
-    url: /covid19/ 
+    url: /covid19/    
     
-  - title: "covid testing"
-    url: /covid_test/    
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "python"
+  - title: "Python"
     url: /python/
