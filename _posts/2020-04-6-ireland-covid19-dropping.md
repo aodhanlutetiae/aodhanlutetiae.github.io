@@ -1,10 +1,11 @@
 ---
-title: 'Ireland Covid-19 figures drop, but then they've dropped before'
-date: 2012-04-06
+title: 'BLAAAAAA'
+date: 2020-04-06
+permalink: /posts/2012/08/blog-post-1/
 tags:
-  - Coronavirus
-  - Data
-  - Ireland
+  - cool posts
+  - category1
+  - category2
 ---
 
 
