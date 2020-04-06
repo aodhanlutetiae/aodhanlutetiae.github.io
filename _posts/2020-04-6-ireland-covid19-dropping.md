@@ -18,5 +18,8 @@ Close to the time of this data Ireland's Health Protection Surveillance Centre o
 
 > 1,263 cases (26%) are associated with healthcare workers
 
+Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers.
+
+![Daily cases in Ireland](/images/ireland_deaths_0504.jpg)
 
 * [This is a link to my Covid-10 repo](https://github.com/aodhanlutetiae/covid)
