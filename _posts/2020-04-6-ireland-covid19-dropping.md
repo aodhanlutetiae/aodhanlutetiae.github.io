@@ -6,29 +6,16 @@ tags:
   - Ireland
 ---
 
-# Ireland, Coronavirus, April 6
+## Ireland figures drop, but then...they've dropped before**
 
-**Ireland figures drop, but they've dropped before**
+Figures from the European Centre for Disease Control and Prevention show a drop in cases, and in deaths as of the morning of Sunday April 5. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
-Figures from the European Centre for Disease Control and Prevention show a drop in cases, and in deaths. In the past, this has simply
-been a temporary blip in an otherwise uninterrupted upwards trajectory.
+![Daily cases in Ireland](/images/ireland_cases_0504.jpg)
 
-[Daily cases in Ireland](/images/ireland_cases_0504.jpg)
+Close to the time of this data Ireland's Health Protection Surveillance Centre observed:
 
-- Repo with ECDC data and Jupyter notebook
+> This is a quote the median age of confirmed cases is 49 years
+> 1,263 cases (26%) are associated with healthcare workers
 
-# This is a heading
 
-## Here's a smaller heading
-
-This is a paragraph
-
-* Here's a bulleted list
-* Another item
-
-1. And an ordered list
-1. The numbers don't matter
-
-> This is a qoute
-
-[This is a link to Google](https://google.com)
+* [This is a link to my Covid-10 repo](https://github.com/aodhanlutetiae/covid)
