@@ -17,7 +17,8 @@ Close to the time of this data Ireland's Health Protection Surveillance Centre [
 Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers, down from 22 reported deaths the day before to 17.
 
 > WARNING. It is very difficult to find definitive figures around Coronavirus. Depending on whether you're using the ECDC or 
-> Johns Hopkins data, or a country-specific source, the numbers vary. The number of dead can't be presumed to be complete, and > those who died are said to have died *with* the disease, not necessarily *from* it. Then there is the number of people 
+> Johns Hopkins data, or a country-specific source, the numbers vary. The number of dead can't be presumed to be complete, 
+> and those who died are said to have died *with* the disease, not necessarily *from* it. Then there is the number of people 
 > who've recovered which isn't always counted. (For the same date as the date discussed here, Johns Hopkins noted 25 Irish 
 > recoveries in total). Even when a single source is compared over time, there's no guarantee that the reporting isn't 
 > improving as more information is gathered and that worsening figures may, in part, be due to better reporting of numbers of 
