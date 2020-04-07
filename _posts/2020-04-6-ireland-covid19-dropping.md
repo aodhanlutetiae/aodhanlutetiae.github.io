@@ -1,5 +1,6 @@
+
 ---
-title: 'Irish figures drop (or seem to), and what's happening in Westmeath?'
+title: 'Irish Coronavirus figures. And Westmeath'
 date: 2020-04-06
 permalink: /posts/2012/08/blog-post-1/
 tags:
@@ -22,5 +23,14 @@ Close to the time of this data Ireland's Health Protection Surveillance Centre o
 Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers.
 
 ![Daily cases in Ireland](/images/ireland_deaths_0504.jpg)
+
+### Westmeath etc.
+
+![Daily cases in Ireland](/images/ireland_counties.jpg)
+
+This observation was covered in a piece by the [Irish Times](https://www.irishtimes.com/news/ireland/irish-news/coronavirus-westmeath-has-highest-rate-of-covid-19-outside-of-dublin-1.4218810)
+
+
+### Sources & notebooks
 
 * [This is a link to my Covid-19 repo](https://github.com/aodhanlutetiae/covid)
