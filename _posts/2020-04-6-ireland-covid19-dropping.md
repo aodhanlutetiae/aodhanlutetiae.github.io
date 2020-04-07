@@ -20,7 +20,7 @@ Close to the time of this data Ireland's Health Protection Surveillance Centre o
 
 Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers.
 
-![Daily deaths in Ireland](/images/ireland_deaths_0504.jpg)
+![Daily deaths in Ireland](/images/ireland_deaths_0504.png)
 
 ### Cavan, Westmeath etc.
 
