@@ -8,17 +8,23 @@ tags:
   - Ireland
 ---
 
-Figures from the European Centre for Disease Prevention and Control show a drop in cases, and in deaths, as of the morning of Sunday April 5. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
+Figures from the European Centre for Disease Prevention and Control show a drop in cases, and in deaths, as of the morning of Sunday April 5. They dropped from 424 the day before to 321. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
 ![Daily cases in Ireland](/images/ireland_cases_0504.jpg)
 
-Close to the time of this data Ireland's Health Protection Surveillance Centre observed:
+Close to the time of this data Ireland's Health Protection Surveillance Centre [observed](https://www.gov.ie/en/publication/ed3cdd-an-analysis-of-the-4916-cases-of-covid-19-in-ireland-as-of-saturday-/) that one in every four cases is 'associated with' health workers. I *think* this means that one in every four of those who have caught the virus is a healthworker, but this will have to be confirmed.
 
 > The median age of confirmed cases is 49 years
 
 > 1,263 cases (26%) are associated with healthcare workers
 
-Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers.
+Deaths are, unsurprisingly, correlated and follow the same drop in reported numbers down from 22 reported deaths the day before to 17.
+
+> WARNING. It is very difficult to find definitive figures around Coronavirus. Depending on whether you're using the ECDC or 
+> Johns Hopkins data, or a country-specific source, the numbers vary. The number of dead can't be presumed to be complete, and > those who died are known to have died *with* the disease, not necessarily from it. Then there are the numbers of recovered 
+> which aren't always counted. (For the same date as the date discussed here, Johns Hopkins noted 25 Irish recoveries). Even 
+> when a single source is compared over time, there's no guarantee that the reporting isn't improving as more information is 
+> gathered and that worsening figures may, in part, be due to better reporting of numbers of sick and deceased.
 
 ![Daily deaths in Ireland](/images/ireland_deaths_0504.png)
 
