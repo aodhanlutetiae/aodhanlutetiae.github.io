@@ -24,7 +24,7 @@ Deaths are, unsurprisingly, correlated and follow the same drop in reported numb
 
 ### Westmeath etc.
 
-![Daily cases in Ireland](/images/ireland_counties.jpg)
+![Daily cases in Ireland](/images/ireland_counties_0504.jpg)
 
 This observation was covered in a piece by the [Irish Times](https://www.irishtimes.com/news/ireland/irish-news/coronavirus-westmeath-has-highest-rate-of-covid-19-outside-of-dublin-1.4218810)
 
