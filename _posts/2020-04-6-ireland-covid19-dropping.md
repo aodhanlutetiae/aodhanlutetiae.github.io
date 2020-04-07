@@ -1,14 +1,12 @@
-
 ---
-title: 'Irish Coronavirus figures. And Westmeath'
+title: 'Irish Coronavirus figures'
 date: 2020-04-06
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - Coronavirus
-  - Ireland
   - Data
+  - Ireland
 ---
-
 
 Figures from the European Centre for Disease Control and Prevention show a drop in cases, and in deaths as of the morning of Sunday April 5. In the past, this has simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
