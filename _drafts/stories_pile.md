@@ -25,3 +25,4 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - Hundreds of university staff to be made redundant due to coronavirus (*Guardian*)
 - Calls for Bristol Uni to U-turn on coronavirus sacking of 84 temp workers (*Bristol Cable*)
 - Les pompes funèbres sont débordées en Seine-Saint-Denis où il y a un 'excès de mortalité exceptionnel' (*Parisien*)
+- This NHS worker is facing eviction, as Bristol rallies to help coronavirus heroes  (*Bristol Cable*)
