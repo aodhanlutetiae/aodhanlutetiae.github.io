@@ -14,6 +14,8 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 ## TO DO
 
 - How many of the sick are healthworkers?
+- What companies aren't paying their workers and why?
+- What is happening with investment in tech startsups?
 
 ## DONE
 
