@@ -28,3 +28,4 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - Calls for Bristol Uni to U-turn on coronavirus sacking of 84 temp workers (*Bristol Cable*)
 - Les pompes funèbres sont débordées en Seine-Saint-Denis où il y a un 'excès de mortalité exceptionnel' (*Parisien*)
 - This NHS worker is facing eviction, as Bristol rallies to help coronavirus heroes  (*Bristol Cable*)
+- [About 2 Million Guns Were Sold in the U.S. as Virus Fears Spread (*New York Times*)](https://www.nytimes.com/interactive/2020/04/01/business/coronavirus-gun-sales.html)
