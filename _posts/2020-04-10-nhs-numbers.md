@@ -1,6 +1,6 @@
 ---
 title: 'The NHS refuses to put a number on its dead workers'
-date: 2020-04-010
+date: 2020-04-10
 permalink: /posts/2020/04/blog-post-3/
 tags:
   - Coronavirus
@@ -19,8 +19,8 @@ A quick count from UK press reports shows at least 22 NHS workers have died of C
 looks like the kind of question suited to a Freedom of Information request.
 
 In Dublin, the Irish government's [daily figures](https://www.gov.ie/en/publication/695f10-an-analysis-of-the-6444-cases-of-covid-19-in-ireland-as-of-tuesday-7/) published identify how many cases "are associated with healthcare workers". As of midnight last Tuesday
-there were 1,765 of the 6444 cases "associated with healthcare workers" or just above one in four cases. This is an alarming figure, examined weeks ago by the [Irish Times]
-(https://www.irishtimes.com/news/health/why-are-25-of-confirmed-covid-19-cases-health-workers-1.4213198).
+there were 1,765 of the 6444 cases "associated with healthcare workers" or just above one in four cases. This is an alarming figure, examined weeks ago by the 
+[Irish Times](https://www.irishtimes.com/news/health/why-are-25-of-confirmed-covid-19-cases-health-workers-1.4213198).
 
 
 
