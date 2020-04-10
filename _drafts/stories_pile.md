@@ -43,3 +43,9 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - [https://www.nytimes.com/2020/04/08/world/europe/coronavirus-doctors-immigrants.html](Eight U.K. Doctors Died From Coronavirus. All Were Immigrants)
 - [With Humans in Hiding, Animals Take Back the World(*Bloomberg*)](https://www.bloomberg.com/news/photo-essays/2020-04-08/with-humans-in-hiding-animals-take-back-the-pandemic-world)
 - [Virus Is Twice as Deadly for Black and Latino People Than Whites in N.Y.C.(*New York Times*)](https://www.nytimes.com/2020/04/08/nyregion/coronavirus-race-deaths.html)
+- [Airborne Nitrogen Dioxide Plummets Over China(*Nasa*)](https://earthobservatory.nasa.gov/images/146362/airborne-nitrogen-dioxide-plummets-over-china)
+
+
+
+
+
