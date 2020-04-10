@@ -1,12 +1,12 @@
+
 ---
-layout: single
-title:  "Coronavirus stories"
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
-categories: 
-  - Jekyll
+title: 'Coronavirus stories'
+date: 2020-04-09
+permalink: /posts/2012/08/blog-post-2/
 tags:
-  - edge case
+  - Coronavirus
+  - Data
+  - Journalism
 ---
 
 Something must have been left unaffected by Coronavirus and the associated shutdowns around the world, but it's hard to see what it might be. Commerce, religion, schooling, sport, employment, air quality and many others. This is an ongoing list of Coronavirus-related stories that have either been done, or that are waiting to be done.
