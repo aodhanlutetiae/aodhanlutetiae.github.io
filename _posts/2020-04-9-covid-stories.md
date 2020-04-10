@@ -1,9 +1,7 @@
-
-
 ---
 title: 'Coronavirus stories'
 date: 2020-04-09
-permalink: /posts/2012/08/blog-post-2/
+permalink: /posts/2020/04/blog-post-2/
 tags:
   - Coronavirus
   - Data
