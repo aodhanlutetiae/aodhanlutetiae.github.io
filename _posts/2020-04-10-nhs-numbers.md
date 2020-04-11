@@ -9,8 +9,9 @@ tags:
 ---
 
 **UPDATE April 11**
-Possibly picking up on reaction to Friday's press conference, the Health Secretary Matt Hancock said there were 19 NHS workers who had died from Coronavirus.
-He told the [BBC](https://www.bbc.co.uk/news/uk-52252470) that it's not known if they caught the infection while at work, or elsewhere.
+Possibly picking up on reaction to Friday's press conference, the Health Secretary Matt Hancock said on Saturday that there were 19 NHS workers who had died from Coronavirus.
+He told the [BBC](https://www.bbc.co.uk/news/uk-52252470) that it's not known if they caught the infection while at work, or elsewhere. But later the same day the death of
+two hospital porters in an Oxford hospital was announced. The twitter account [@NursingNotesUK](https://twitter.com/NursingNotesUK) is posting known Coronavirus deaths of NHS nurses. The information on this account brings my tally to 35 NHS workers having died from the infection although not all confirmed, and not all deaths confirmed as "illness contracted while working".
 
 -----
 
