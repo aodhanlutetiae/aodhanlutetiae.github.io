@@ -20,7 +20,7 @@ A quick count from UK press reports suggest 28 NHS workers have died of Coronavi
 As plenty of people who watched today's press conference observed on social media, it's entirely feasible to release the number of dead as anonymised data.
 
 In Dublin, the Irish government's [daily figures](https://www.gov.ie/en/publication/695f10-an-analysis-of-the-6444-cases-of-covid-19-in-ireland-as-of-tuesday-7/) identify how many cases "are associated with healthcare workers". As of midnight last Tuesday
-there were 1,765 of the 6444 cases "associated with healthcare workers" or about one in four cases. It's an alarming and exceptional proportion, examined weeks ago by the 
+there were 1,765 of the 6,444 cases "associated with healthcare workers" or about one in four cases. It's an alarming and exceptional proportion, examined weeks ago by the 
 [Irish Times](https://www.irishtimes.com/news/health/why-are-25-of-confirmed-covid-19-cases-health-workers-1.4213198).
 
 But unpleasant as the Irish figures are, they do at least get published.
