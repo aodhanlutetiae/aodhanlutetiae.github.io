@@ -8,6 +8,12 @@ tags:
   - NHS
 ---
 
+**UPDATE April 11**
+Possibly picking up on reaction to Friday's press conference, the Health Secretary Matt Hancock said there were 19 NHS workers who had died from Coronavirus.
+He told the [BBC](https://www.bbc.co.uk/news/uk-52252470) that it's not known if they caught the infection while at work, or elsewhere.
+
+-----
+
 Asked [today](https://www.youtube.com/watch?v=bThgg_U2h7A#t=41m30s) how many frontline NHS workers have died from from COVID-19, the Head Nurse for the NHS in England, Ruth May, said she had the numbers, 
 but wouldn't supply them.
 
