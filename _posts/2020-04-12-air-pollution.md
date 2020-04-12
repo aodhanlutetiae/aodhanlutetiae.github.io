@@ -1,6 +1,6 @@
 ---
 title: 'Cardiff air gets clean, as people stay home'
-date: 2020-04-11
+date: 2020-04-12
 permalink: /posts/2020/04/blog-post-4/
 tags:
   - Coronavirus
@@ -8,11 +8,8 @@ tags:
   - UK
 ---
 
-Cardiff breathes clean air during lockdown
 
-Three weeks into the UK’s shutdown, levels of Nitrogen Dioxide in Cardiff have almost halved compared to a year ago.
-
-The city’s two stations for measuring air quality – on the central pedestrianised [Queen St](https://www.google.com/maps/place/51%C2%B028'54.4%22N+3%C2%B010'34.5%22W/@51.48178,-3.17625,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.48178!4d-3.17625), and on the busy [Newport Road](https://www.google.com/maps/place/51%C2%B029'27.5%22N+3%C2%B009'08.3%22W/@51.49096,-3.152305,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.49096!4d-3.152305) – both show that levels of NO2 last week were close to half what they were for the same week last year.
+Three weeks into the UK’s shutdown, levels of Nitrogen Dioxide in Cardiff have almost halved compared to a year ago. The city’s two stations for measuring air quality – on the central pedestrianised [Queen St](https://www.google.com/maps/place/51%C2%B028'54.4%22N+3%C2%B010'34.5%22W/@51.48178,-3.17625,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.48178!4d-3.17625), and on the busy [Newport Road](https://www.google.com/maps/place/51%C2%B029'27.5%22N+3%C2%B009'08.3%22W/@51.49096,-3.152305,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.49096!4d-3.152305) – both show that levels of NO2 last week were close to half what they were for the same week last year.
 
 The [Telegraph](https://www.telegraph.co.uk/news/2020/04/10/air-pollution-drops-drastically-across-uk-annual-global-carbon/) reported a few days ago that there had been a similar drop in Hafodyrynys, outside Caerphilly.
 
