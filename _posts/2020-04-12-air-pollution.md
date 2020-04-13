@@ -27,7 +27,7 @@ The NO2 figures were also down on the edge of Cardiff city last week, at times a
 
 Similar findings are reported [around the world](https://www.theguardian.com/environment/2020/apr/11/positively-alpine-disbelief-air-pollution-falls-lockdown-coronavirus), as improved air quality becomes an unexpected consequence of the lockdown. 
 
-Not of course that people get much chance to go out and enjoy it. 
+Not, of course, that people get much chance to go out and enjoy it!
 
 
 
