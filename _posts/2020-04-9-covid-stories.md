@@ -12,6 +12,7 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## TO DO
 
+- How many people were still working when UK construction sites weren't shut?
 - How many of the sick are healthworkers?
 - What companies aren't paying their workers and why?
 - What is happening with investment in tech startsups?
@@ -26,6 +27,7 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE
 
+- [UK construction firms split over coronavirus shutdown (*Guardian*)](https://www.theguardian.com/business/2020/mar/25/uk-construction-firms-split-over-coronavirus-shutdown)
 - [Monitoring the Global Slowdown (*Bellingcat*)](https://www.bellingcat.com/news/2020/04/10/covid-19-monitoring-the-global-slowdown/)
 - [Disbelief in big cities as air pollution falls (*Guardian*)](https://www.theguardian.com/environment/2020/apr/11/positively-alpine-disbelief-air-pollution-falls-lockdown-coronavirus)
 - [Airborne Nitrogen Dioxide Plummets Over China (*Nasa*)](https://earthobservatory.nasa.gov/images/146362/airborne-nitrogen-dioxide-plummets-over-china)
