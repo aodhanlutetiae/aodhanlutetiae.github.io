@@ -8,9 +8,11 @@ tags:
   - Ireland
 ---
 
-Figures from the European Centre for Disease Prevention and Control show a drop in cases as of the morning of Sunday April 5. They dropped from 424 the day before to 321. In the past, short-term drops like this have simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
+Figures from the European Centre for Disease Prevention and Control (ECDC) show a drop in cases as of the morning of Sunday April 5. They dropped from 424 the day before to 321. In the past, short-term drops like this have simply been a temporary blip in an otherwise uninterrupted upwards trajectory.
 
 ![Daily cases in Ireland](/images/ireland_cases_0504.jpg)
+
+The evolution really needs to be measured via a seven day average, to avoid the problem of the 'temporary blip'. This I hope will be the next analysis I do of the Irish figures.
 
 Close to the time of this data Ireland's Health Protection Surveillance Centre [observed](https://www.gov.ie/en/publication/ed3cdd-an-analysis-of-the-4916-cases-of-covid-19-in-ireland-as-of-saturday-/) that one in every four cases is 'associated with' health workers. I *think* this means that one in every four of those who have caught the virus is a healthworker, but this will have to be confirmed. If this is the case, it seems like an exceptionally high number and merits comparison with other EU countries.
 
@@ -37,4 +39,4 @@ This observation was covered in a piece by the [Irish Times](https://www.irishti
 
 ### Sources & notebooks
 
-* [This is a link to my Covid-19 repo which holds all the datasets and coding used for this blog](https://github.com/aodhanlutetiae/covid)
+* [The repo with all the data and python notebook is here](https://github.com/aodhanlutetiae/covid)

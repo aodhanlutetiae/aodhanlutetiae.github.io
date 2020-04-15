@@ -15,5 +15,5 @@ Where do you begin? The Coronavirus Tech Handbook is a good place. It's a massiv
 
 * [https://coronavirustechhandbook.com](https://coronavirustechhandbook.com)
 
-
+Otherwise see my blog posts for newslines, stats and what journalists are writing about.
 

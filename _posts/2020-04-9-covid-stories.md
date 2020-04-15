@@ -12,7 +12,7 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## TO DO
 
-- How many people were still working when UK construction sites weren't shut?
+- How many people were still working in construction when the UK government opted to leave the sector open for business?
 - How many of the sick are healthworkers?
 - What companies aren't paying their workers and why?
 - What is happening with investment in tech startsups?
@@ -21,8 +21,8 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - What is happening to air quality in cities?
 - What, if anything, is happening to numbers of gun deaths in the US?
 - What use are police making of drones during the pandemic?
-- What does the economy of sport look like, at the top end (Champions League etc.) and locally?
-- How have less transparent political systems coped?
+- What does the economy of sport look like, at the top end (Champions League, Formula One etc.) and locally?
+- How have less transparent political systems coped with the pandemic?
 - What has happened to airbnb bookings in the cities that are scraped via insideairbnb?
 
 ## DONE
