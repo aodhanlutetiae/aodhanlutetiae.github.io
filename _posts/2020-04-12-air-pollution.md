@@ -1,5 +1,5 @@
 ---
-title: 'Cardiff air gets clean, as people stay home'
+title: 'Cardiff pollution halves, as people stay home'
 date: 2020-04-12
 permalink: /posts/2020/04/blog-post-5/
 tags:
