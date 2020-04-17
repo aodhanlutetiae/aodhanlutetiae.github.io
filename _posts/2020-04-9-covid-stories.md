@@ -27,6 +27,9 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE
 
+- [Domestic abuse killings 'more than double' amid Covid-19 lockdown (*Guardian*)](https://www.theguardian.com/society/2020/apr/15/domestic-abuse-killings-more-than-double-amid-covid-19-lockdown)
+- [Supermarket brands NHS workers as ‘contaminated’ (*Nursing Notes*)](https://nursingnotes.co.uk/news/supermarket-brands-nhs-workers-contaminated/)
+- [Garbage Pickups Tell a Tale of Two Cities, With Part of Manhattan Shrinking (*The City*)](https://thecity.nyc/2020/04/garbage-pickups-tell-tale-of-two-cities-as-manhattan-shrinks.html)
 - [How much law is the UK government making through Statutory Instruments? (*Hansard Society*)](https://www.hansardsociety.org.uk/publications/data/coronavirus-statutory-instruments-dashboard)
 - [UK construction firms split over coronavirus shutdown (*Guardian*)](https://www.theguardian.com/business/2020/mar/25/uk-construction-firms-split-over-coronavirus-shutdown)
 - [Monitoring the Global Slowdown (*Bellingcat*)](https://www.bellingcat.com/news/2020/04/10/covid-19-monitoring-the-global-slowdown/)
