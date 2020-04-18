@@ -27,6 +27,8 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE
 
+- [Amazon sellers exploiting the pandemic through unethical pricing (*Datahut*)](https://blog.datahut.co/covid-19-and-predatory-pricing-online/)
+- [The Crash of the $8.5 Billion Global Flower Trade (*Bloomberg*)](https://www.bloomberg.com/features/2020-flower-industry-crash)
 - [Domestic abuse killings 'more than double' amid Covid-19 lockdown (*Guardian*)](https://www.theguardian.com/society/2020/apr/15/domestic-abuse-killings-more-than-double-amid-covid-19-lockdown)
 - [Supermarket brands NHS workers as ‘contaminated’ (*Nursing Notes*)](https://nursingnotes.co.uk/news/supermarket-brands-nhs-workers-contaminated/)
 - [Garbage Pickups Tell a Tale of Two Cities, With Part of Manhattan Shrinking (*The City*)](https://thecity.nyc/2020/04/garbage-pickups-tell-tale-of-two-cities-as-manhattan-shrinks.html)
