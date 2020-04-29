@@ -10,9 +10,9 @@ tags:
 ---
 Arguments about protective equipment for NHS workers won't go away. A BBC documentary this week said that the government's claim to have distributed one billion items of protective equipment was based on counting each pair of gloves as two items.
 
-Although the argument verges on the ridiculous, it's one more example of how hard it is to count something -- or rather that you can't count something until you decide what you're counting. And that decision is often a loaded one.
+Although the argument verges on the ridiculous, it's one more example of how hard it is to count something -- or rather that you can't count something until you decide what you're counting. And therein lies the difficulty.
 
-And behind the debate lies the increasing numbers of NHS workers who have died during the pandemic. My count is currently 120, although others are lower and higher.
+And behind the debate over protective equipment (PPE) lies the increasing numbers of NHS workers who have died during the pandemic. My count is currently 120, although others are lower and higher.
 
 In parliament on Tuesday, Labour's Shadow Cabinet Office Minister Rachel Reeves asked how exactly the numbers added up inside the 'one billion items' claim.
 
@@ -26,11 +26,11 @@ However, regardless of however you count them, gloves are apparently not the pro
 
 -----
 
-In the United States, the vice-president Mike Pence [is under fire](https://edition.cnn.com/2020/04/28/politics/mike-pence-mayo-clinic-mask/index.html) after he made a trip to the famous Mayo Clinic and ignored their rules that all visitors should wear a face mask. Perhaps even more interesting is the question of why the hospital removed a tweet in which it confirmed that Pence had been told before visiting about the rules.
+In the United States, the vice-president Mike Pence [is under fire](https://edition.cnn.com/2020/04/28/politics/mike-pence-mayo-clinic-mask/index.html) after he made a trip to the famous Mayo Clinic and ignored their rules that all visitors should wear a face mask. Perhaps even more interesting is the question of *why* the hospital removed a tweet in which it confirmed that Pence had been told about the rules before his visit.
 
 ![mayo clinic tweet](/images/mayo_tweet.png)
 
-I've archived the [tweet](http://archive.md/m3Iyu) in case the Clinic needs to check what it did and didn't say.
+I've archived the [tweet](http://archive.md/m3Iyu) in case the Clinic needs to remember what it did and didn't do.
 
 
 ----
