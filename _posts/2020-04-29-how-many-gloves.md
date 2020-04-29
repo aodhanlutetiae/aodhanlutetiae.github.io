@@ -8,7 +8,7 @@ tags:
   - NHS
   - Protective equipment
 ---
-Arguments about protective equipment for NHS workers won't go away. A BBC documentary this week said that the government's claim to have distributed one billion items of protective equipment was based on counting each pair of gloves as two items.
+Arguments about protective equipment for NHS workers won't go away. A [BBC documentary this week](https://www.bbc.co.uk/news/health-52254745) said the government's claim to have distributed one billion items of protective equipment was based on counting each pair of gloves as two items.
 
 Although the argument verges on the ridiculous, it's one more example of how hard it is to count something -- or rather that you can't count something until you decide what you're counting. And therein lies the difficulty.
 
@@ -26,13 +26,8 @@ However, regardless of however you count them, gloves are apparently not the pro
 
 -----
 
-In the United States, the vice-president Mike Pence [is under fire](https://edition.cnn.com/2020/04/28/politics/mike-pence-mayo-clinic-mask/index.html) after he made a trip to the famous Mayo Clinic and ignored their rules that all visitors should wear a face mask. Perhaps even more interesting is the question of *why* the hospital removed a tweet in which it confirmed that Pence had been told about the rules before his visit.
-
 ![mayo clinic tweet](/images/mayo_tweet.png)
 
+In the United States, the vice-president Mike Pence [is under fire](https://edition.cnn.com/2020/04/28/politics/mike-pence-mayo-clinic-mask/index.html) after he made a trip to the famous Mayo Clinic and ignored their rules that all visitors should wear a face mask. Perhaps even more interesting is the question of *why* the hospital removed a tweet in which it confirmed that Pence had been told about the rules before his visit.
+
 I've archived the [tweet](http://archive.md/m3Iyu) in case the Clinic needs to remember what it did and didn't do.
-
-
-----
-
-The github repository with the data file is [here](https://github.com/aodhanlutetiae/covid).
