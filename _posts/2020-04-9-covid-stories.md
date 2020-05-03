@@ -27,6 +27,7 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE
 
+- [The shocking number of coronavirus cases in Welsh prisons](https://www.walesonline.co.uk/news/wales-news/prisons-prisoners-coronavirus-covid19-criminals-18162552)
 - [Amazon sellers exploiting the pandemic through unethical pricing (*Datahut*)](https://blog.datahut.co/covid-19-and-predatory-pricing-online/)
 - [The Crash of the $8.5 Billion Global Flower Trade (*Bloomberg*)](https://www.bloomberg.com/features/2020-flower-industry-crash)
 - [Domestic abuse killings 'more than double' amid Covid-19 lockdown (*Guardian*)](https://www.theguardian.com/society/2020/apr/15/domestic-abuse-killings-more-than-double-amid-covid-19-lockdown)
@@ -52,8 +53,3 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - [Eight U.K. Doctors Died From Coronavirus. All Were Immigrants (*New York Times*)](https://www.nytimes.com/2020/04/08/world/europe/coronavirus-doctors-immigrants.html)
 - [About 2 Million Guns Were Sold in the U.S. as Virus Fears Spread (*New York Times*)](https://www.nytimes.com/interactive/2020/04/01/business/coronavirus-gun-sales.html)
 - [What is going on with Germany's low death rate? (*Sky*)](https://news.sky.com/story/coronavirus-why-germany-has-such-a-low-covid-19-death-rate-11964051)
-
-
-
-
-
