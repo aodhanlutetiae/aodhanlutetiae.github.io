@@ -25,8 +25,11 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 - How have less transparent political systems coped with the pandemic?
 - What has happened to airbnb bookings in the cities that are scraped via insideairbnb?
 
-## DONE
+## DONE / STARTED
 
+- [Two samples taken from a person and government counts 'two tests'] (https://www.telegraph.co.uk/global-health/science-and-disease/tens-thousands-coronavirus-tests-have-double-counted-officials/)
+- [People have turned off the news during the pandemic](https://reutersinstitute.politics.ox.ac.uk/initial-surge-news-use-around-coronavirus-uk-has-been-followed-significant-increase-news-avoidance)
+- [40% of drivers say they'll drive less after the pandemic](https://www.bbc.co.uk/news/uk-52793230)
 - [The shocking number of coronavirus cases in Welsh prisons](https://www.walesonline.co.uk/news/wales-news/prisons-prisoners-coronavirus-covid19-criminals-18162552)
 - [Amazon sellers exploiting the pandemic through unethical pricing (*Datahut*)](https://blog.datahut.co/covid-19-and-predatory-pricing-online/)
 - [The Crash of the $8.5 Billion Global Flower Trade (*Bloomberg*)](https://www.bloomberg.com/features/2020-flower-industry-crash)
