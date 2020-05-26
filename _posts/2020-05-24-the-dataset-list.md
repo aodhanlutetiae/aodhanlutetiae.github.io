@@ -3,10 +3,9 @@ title: 'A long list of interesting datasets'
 date: 2020-05-24
 permalink: /posts/2020/05/blog-post-9/
 tags:
-  - Coronavirus
   - Data
-  - NHS
-  - Protective equipment
+  - Datajournalism
+  - Datasets
 ---
 The 'bin' into which I regularly pop interesting online datasets has been overflowing. So I've sat down and sorted it out and popped it online via joedocs.
 
