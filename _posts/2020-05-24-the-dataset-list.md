@@ -1,7 +1,7 @@
 ---
 title: 'A long list of interesting datasets'
-date: 2020-05-31
-permalink: /posts/2020/05/blog-post-10/
+date: 2020-05-24
+permalink: /posts/2020/05/blog-post-9/
 tags:
   - Data
   - Datajournalism

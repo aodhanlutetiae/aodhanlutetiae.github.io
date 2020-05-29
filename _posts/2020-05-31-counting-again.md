@@ -1,7 +1,7 @@
 ---
-title: 'How many gloves is that?'
-date: 2020-04-30
-permalink: /posts/2020/04/blog-post-8/
+title: 'How many tests is that?'
+date: 2020-05-31
+permalink: /posts/2020/05/blog-post-10/
 tags:
   - Coronavirus
   - Data
