@@ -27,6 +27,7 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE / STARTED
 
+- [The richest left NY during the pandemic (NYT, Descartes Labs)](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
 - [Fans buy cardboard cutouts of themselves for German football games behind closed doors (*BBC*)](https://www.bbc.co.uk/sport/football/52771326)
 - [UK govt counts 2 samples from one person as two tests (*Telegraph*)](https://www.telegraph.co.uk/global-health/science-and-disease/tens-thousands-coronavirus-tests-have-double-counted-officials/)
 - [People have turned off the news during the pandemic (*RISJ*)](https://reutersinstitute.politics.ox.ac.uk/initial-surge-news-use-around-coronavirus-uk-has-been-followed-significant-increase-news-avoidance)

@@ -1,12 +1,12 @@
 ---
-title: 'How many gloves is that?'
-date: 2020-04-29
-permalink: /posts/2020/04/blog-post-8/
+title: 'How many tests is that?'
+date: 2020-05-31
+permalink: /posts/2020/04/blog-post-11/
 tags:
   - Coronavirus
   - Data
   - NHS
-  - Protective equipment
+  - Counting
 ---
 Arguments about protective equipment for NHS workers won't go away. A [BBC documentary this week](https://www.bbc.co.uk/news/health-52254745) said the government's claim to have distributed one billion items of protective equipment was based on counting each pair of gloves as two items.
 

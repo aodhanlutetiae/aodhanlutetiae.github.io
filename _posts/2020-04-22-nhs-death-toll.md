@@ -1,5 +1,5 @@
 ---
-title: 'The NHS refuses to put a number on its dead workers'
+title: 'The NHS refuses to put a number on its dead workers (more)'
 date: 2020-04-22
 permalink: /posts/2020/04/blog-post-7/
 tags:
@@ -7,6 +7,11 @@ tags:
   - Data
   - NHS
 ---
+
+**UPDATE May 24**
+My list of Uk health workers who've died with Coronavirus is now well out of date. The best monitoring being done on this at the moment is by [@NursingNotesUK](https://twitter.com/NursingNotesUK).
+
+----
 
 Nobody knows exactly how many health workers have died in the UK because they caught Coronavirus while doing their job. Counting anything is complicated and in this case it's not possible to be certain if a health worker caught the infection while working. But we do know that they are dying, that much is clear.
 
@@ -22,7 +27,3 @@ One NHS Trust appeared to do a u-turn this week, saying that it wasn't trying to
 ----
 
 The github repository with the data file is [here](https://github.com/aodhanlutetiae/covid).
-
-
-
-
