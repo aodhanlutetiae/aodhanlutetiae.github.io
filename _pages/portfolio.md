@@ -11,9 +11,10 @@ Here's a link
 
 Coming soon ... a long list of lovely pieces of work!
 
-*Odds n ends*
-[Search the Sonnets for a term](https://wssonnets.herokuapp.com/)
-[Running list of interesting datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit#heading=h.akal3wpo8so1)
+**Odds n ends**
+>[Search the Sonnets for a term](https://wssonnets.herokuapp.com/)
+
+>[Running list of interesting datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit#heading=h.akal3wpo8so1)
 
 {% include base_path %}
 
