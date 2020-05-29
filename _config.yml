@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Aidan O'Donnell"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aidan O'Donnell"
 description              : &description "Data Journalist"
 url                      : https://aodhanlutetiae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Journalist"
   location         : "Cardiff"
-  employer         : 
+  employer         :
   email            : "odonnella4@cardiff.ac.uk"
   uri              :
   bitbucket        :
