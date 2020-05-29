@@ -9,7 +9,7 @@ tags:
 ---
 
 **UPDATE May 24**
-My list of Uk health workers who've died with Coronavirus is now well out of date. The best monitoring being done on this at the moment is by [@NursingNotesUK](https://twitter.com/NursingNotesUK).
+My list of UK health workers who've died with Coronavirus is now well out of date. The best monitoring being done on this at the moment is by [@NursingNotesUK](https://twitter.com/NursingNotesUK).
 
 ----
 
