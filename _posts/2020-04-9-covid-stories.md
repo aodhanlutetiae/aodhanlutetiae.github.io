@@ -27,9 +27,11 @@ Something must have been left unaffected by Coronavirus and the associated shutd
 
 ## DONE / STARTED
 
-- [The richest left NY during the pandemic (NYT, Descartes Labs)](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
+- [](https://www.nytimes.com/interactive/2020/05/27/sunday-review/coronavirus-effects.html)
+- [Off Campus - Universities in crisis (*Tortoise*)](https://members.tortoisemedia.com/2020/05/26/universities-in-crisis-main-piece-off-campus-cc/content.html?sig=xAfpreMWakvbOYUSEN11DkT7cUJMJGvDG-_bopA1zrI)
+- [The richest left NY during the pandemic (*NYT*, *Descartes Labs*)](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
 - [Fans buy cardboard cutouts of themselves for German football games behind closed doors (*BBC*)](https://www.bbc.co.uk/sport/football/52771326)
-- [UK govt counts 2 samples from one person as two tests (*Telegraph*)](https://www.telegraph.co.uk/global-health/science-and-disease/tens-thousands-coronavirus-tests-have-double-counted-officials/)
+- [UK govt counts two samples from one person as two tests (*Telegraph*)](https://www.telegraph.co.uk/global-health/science-and-disease/tens-thousands-coronavirus-tests-have-double-counted-officials/)
 - [People have turned off the news during the pandemic (*RISJ*)](https://reutersinstitute.politics.ox.ac.uk/initial-surge-news-use-around-coronavirus-uk-has-been-followed-significant-increase-news-avoidance)
 - [40% of drivers say they'll drive less after the pandemic (*BBC*)](https://www.bbc.co.uk/news/uk-52793230)
 - [The shocking number of coronavirus cases in Welsh prisons (*Walesonline*)](https://www.walesonline.co.uk/news/wales-news/prisons-prisoners-coronavirus-covid19-criminals-18162552)
