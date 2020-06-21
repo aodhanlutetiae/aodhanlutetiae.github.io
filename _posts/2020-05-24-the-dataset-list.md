@@ -15,13 +15,6 @@ So what can you find in it?
 
 Do you want details of all the animal rescues that the London Fire Brigade carried out last year? Or to know the location of all the "listed buildings" in Wales? Or how much trash gets collected in New York or how much electricity is used in India?
 
-The last words of every prisoner executed in the US since the 70s are in there somewhere, along with data on how gmail treats email sent to voters by US politicians.
-
-People (or machines) have built lists and datasets on lego blocks, location of English football stadiums, all the bad language in hip-hop, the location of all the dams in the world or how much rainfall fell in any UK town on a particular day.
+The last words of every prisoner executed in the US since the 70s are in there somewhere, along with data on how gmail treats email sent to voters by US politicians. People (or machines) have built lists and datasets on lego blocks, location of English football stadiums, all the bad language in hip-hop, the location of all the dams in the world or how much rainfall fell in any UK town on a particular day.
 
 And there's more...
-
-
-
------------
-I have a spider that tests all the links so, for now at least, they're all working.
