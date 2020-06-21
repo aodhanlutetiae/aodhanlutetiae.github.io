@@ -29,4 +29,12 @@ The Index Librorum Prohibitorum was for centuries the list of books that the Vat
 
 The Index was first published under Paul IV in 1559 and the last edition appeared in 1948. Paul VI abolished it officially in 1966.
 
+So what was being banned? Mostly theological works it should be said. There were famous novels however, judged deleterious to a hypothetical Catholic reader's soul: *Madame Bovary* & *Salammbo*, *Pamela*, *La comedie humaine*, *Les misérables* & *Notre Dame de Paris*.
+
+Zola's Complete Works are banned, and *Nana* and *La Terre* get a separate ban as well.
+
+Dante was in trouble for *the Divine Comedy*, Milton for *Paradise Lost* and Dafoe for his *Political history of the devil*.
+
+And politics and political science got people into conflict with Rome too. Zola's celebrated defence of Dreyfuss *J'accuse* is listed, along with Machiavelli's *Il Principe* and Alexandre Dumas writing about divorce.
+
 * [The repo with all the data and python notebook is here](https://github.com/aodhanlutetiae/index)
