@@ -13,63 +13,20 @@ The Index Librorum Prohibitorum was for centuries the list of books that the Vat
 ![Montaigne outlawed in the Index](/images/montaigne.png)
 (The Index outlawing the reading of Montaigne's famous *Essays* from a 1770 edition of the Index made available online through the Gallica service of the French national library)
 
-4327 works are listed in the database. Authors whose work is banned include scientists, philosophers, writers
+4327 works are listed in the database. There are three main linguistic groups: Latin, French and Italian but there are also books in German, Spanish, English, Dutch and Portuguese. Authors whose work is banned include scientists, philosophers, and writers.
 
 **Theologians**
-- Abelard
-- Calvin
-- Bruno
-- Luther
+- Abelard, Bruno, Calvin, Luther
 
 **Scientists**
-- Boyle
-- Fludd
+- Boyle, Fludd
 
 **Philosophers**
-- Bentham
-- Croce
-- Descartes
-- Hobbes
-- Hume
-- Kant
-- Locke
-- Bergson
-- Machiavelli
-- Mill
-- Montaigne
-- Montesquieu
-- Pascal
-- Proudhon
-- Renan
-- Rousseau
-- Saint-Beuve
-- Spinoza
-- Taine
-- Voltaire
-
+- Bentham, Bergson, Croce, Descartes, Hobbes, Hume, Kant, Locke, Machiavelli, Mill, Montaigne, Montesquieu, Pascal, Proudhon, Renan, Rousseau, Saint-Beuve, Spinoza, Taine, Voltaire
 
 **Writers**
-- Balzac
-- Cousin
-- DAlembert
-- DAnnuzio
-- Dante
-- Defoe
-- Dumas
-- Flaubert
-- Foscolo
-- Goldsmith
-- Heine
-- Hugo
-- Marvell
-- Milton
-- Rabelais
-- Richardson
-- Sade
-- Stendhal
-- Sterne
-- Zola
+- Balzac, Cousin, D'Alembert, D'Annuzio, Dante, Defoe, Dumas, Flaubert, Foscolo, Goldsmith, Heine, Hugo, Marvell, Milton, Rabelais, Richardson, Sade, Stendhal, Sterne, Zola
 
-
+The Index was first published under Paul IV in 1559 and the last edition appeared in 1948. Paul VI abolished it officially in 1966.
 
 * [The repo with all the data and python notebook is here](https://github.com/aodhanlutetiae/index)
