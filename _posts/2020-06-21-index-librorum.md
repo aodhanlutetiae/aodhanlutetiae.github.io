@@ -37,4 +37,9 @@ Dante was in trouble for *the Divine Comedy*, Milton for *Paradise Lost* and Daf
 
 And politics and political science got people into conflict with Rome too. Zola's celebrated defence of Dreyfuss *J'accuse* is listed, along with Machiavelli's *Il Principe* and Alexandre Dumas writing about divorce.
 
+![Some of Voltaire's works in the 1770 edition of the Index](/images/voltaire_1770_ed.png)
+(Some of Voltaire's works in the 1770 edition of the Index)
+
+The writer who comes in for the most citations is Voltaire. He appears 31 times in the Index -- and he found himself in trouble this month too, as someone in Paris [covered him in red paint](https://www.france24.com/en/20200622-protesters-daub-paris-statues-of-voltaire-french-colonial-era-general-in-red-paint) as calls continue for various colonial-era statues to be removed.
+
 * [The repo with all the data and python notebook is here](https://github.com/aodhanlutetiae/index)
