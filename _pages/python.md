@@ -33,7 +33,7 @@ This is a collection of some of the better resources for learning Python.
 - [650 Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/650-free-online-programming-computer-science-courses-you-can-start-this-summer/)
 - [HackInScience Basic Python exercises](https://www.hackinscience.org/exercises/)
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/02-introduction-to-python/)
-- [NSA learn python coursebook ([background here](https://dev.to/instantiator/learn-python-from-the-nsa-3d4o))](https://deeb.io/wrdprs/wp-content/uploads/2020/02/comp3321_red.pdf)
+- [NSA learn python coursebook](https://deeb.io/wrdprs/wp-content/uploads/2020/02/comp3321_red.pdf)[background here](https://dev.to/instantiator/learn-python-from-the-nsa-3d4o)
 - [PyCon US 2020 (online)](https://us.pycon.org/2020/online/)
 - [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
 - [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
