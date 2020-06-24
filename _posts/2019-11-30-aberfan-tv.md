@@ -8,7 +8,7 @@ tags:
   - The Crown
 ---
 
-When the latest series of the TV series *The Crown* was released in late 2019 one episode was set against the Aberfan disaster that occurred in a Welsh mining town in 1966. And a rarely-visited page on Wikipedia was sought out by viewers.
+When the latest series of the TV series *The Crown* was released in late 2019 one episode was set against the  disaster that occurred in the Welsh mining town Aberfan in 1966. And everyone turned to a rarely-visited page on Wikipedia.
 
 ![Visits to Wikipedia 'Aberfan disaster' page in mid-November 2019](/images/aberfan_wikipedia.png)
 

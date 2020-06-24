@@ -13,11 +13,11 @@ My list of UK health workers who've died with Coronavirus is now well out of dat
 
 ----
 
-Nobody knows exactly how many health workers have died in the UK because they caught Coronavirus while doing their job. Counting anything is complicated and in this case it's not possible to be certain if a health worker caught the infection while working. But we do know that they are dying, that much is clear.
+Nobody knows exactly how many health workers have died in the UK because they caught Coronavirus while doing their job. Counting anything is complicated and in this case it's not possible to be certain if a health worker caught the infection while working. But we do know that they are dying; that much is clear.
 
-This week, the nursing notes website said its Coronavirus count of dead NHS workers had passed 100. My count is currently at 104 (see github link below).
+This week, the [nursing notes website](https://nursingnotes.co.uk/) said its Coronavirus count of dead NHS workers had passed 100. My count is currently at 104 (see github link below).
 
-Some other numbers stand out when you look at the list of those who've died. Firstly the range of ages; there are workers in every age bracket from people in their 20s to those in their 80s. The age range appears to run from 23 to 84.
+Some other numbers stand out when you look at the list of those who've died. Firstly the range of ages: there are workers in every age bracket from people in their 20s to those in their 80s. The age range appears to run from 23 to 84.
 
 Two questions on Monday's press conference asked if workers had enough protective equipment to be safe.
 

@@ -8,7 +8,7 @@ tags:
   - Journalism
 ---
 
-Something must have been left unaffected by Coronavirus and the associated shutdowns around the world, but it's hard to see what it might be. Commerce, religion, schooling, sport, employment, air quality and many others. This is an ongoing list of Coronavirus-related stories that have either been done, or that are waiting to be done.
+Something must have been left unaffected by Coronavirus and the associated shutdowns around the world, but it's hard to see what it might be. Commerce, religion, schooling, sport, employment, air quality and many others. This is an ongoing list of interesting Coronavirus-related stories.
 
 ## TO DO
 

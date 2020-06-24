@@ -12,9 +12,7 @@ redirect_from:
 
 This is a collection of some of the better resources for learning Python.
 
-
-**Learning**
-- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Books/Python for Data Analysis. McKinney](https://github.com/Jffrank/Books/blob/master/Python%20for%20Data%20Analysis.%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(2017%2C%20O%E2%80%99Reilly).pdf)
 - [Python Cookbook - Python_Cookbook_3rd_Edition.pdf](https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf)

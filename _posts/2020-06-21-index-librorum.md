@@ -1,5 +1,5 @@
 ---
-title: 'The books the Church banned'
+title: 'The books the Church banned (and Voltaire in trouble again)'
 date: 2020-05-29
 permalink: /posts/2020/06/blog-post-11/
 tags:
@@ -13,7 +13,7 @@ The Index Librorum Prohibitorum was for centuries the list of books that the Vat
 ![Montaigne outlawed in the Index](/images/montaigne.png)
 (The Index outlawing the reading of Montaigne's famous *Essays* -- from a 1770 edition of the Index made available online through the Gallica service of the French national library)
 
-4327 works are listed in the database and are now available as a csv at my github link below. There are three main linguistic groups: Latin, French and Italian but there are also books in German, Spanish, English, Dutch and Portuguese. Authors whose work is banned include scientists, philosophers, writers and, of course, theologians.
+4327 works are listed in the database as banned by the Vatican at one time or another and these are now available as a csv at my github link below. The bulk of the books are in Latin, French or Italian, but there are also books in German, Spanish, English, Dutch and Portuguese. Authors whose work is banned include scientists, philosophers, writers and, of course, theologians.
 
 **Theologians**
 - Abelard, Bruno, Calvin, Luther
@@ -27,11 +27,9 @@ The Index Librorum Prohibitorum was for centuries the list of books that the Vat
 **Writers**
 - Balzac, Cousin, D'Alembert, D'Annuzio, Dante, Defoe, Dumas, Flaubert, Foscolo, Goldsmith, Heine, Hugo, Marvell, Milton, Rabelais, Richardson, Sade, Stendhal, Sterne, Zola
 
-The Index was [first published](https://www.newadvent.org/cathen/07721a.htm) under Paul IV in 1559 and the last edition appeared in 1948. Paul VI [abolished it officially](https://www.britannica.com/topic/Index-Librorum-Prohibitorum) in 1966.
+So what was being banned? Mostly theological works it should be said. There were famous novels however, judged deleterious to a Catholic's soul: *Madame Bovary* & *Salammbo*, *Pamela*, *La comedie humaine*, *Les misérables* & *Notre Dame de Paris*.
 
-So what was being banned? Mostly theological works it should be said. There were famous novels however, judged deleterious to a hypothetical Catholic reader's soul: *Madame Bovary* & *Salammbo*, *Pamela*, *La comedie humaine*, *Les misérables* & *Notre Dame de Paris*.
-
-Zola's Complete Works are banned, and *Nana* and *La Terre* get a separate ban as well.
+Zola's *Complete Works* are banned, and *Nana* and *La Terre* get a separate ban as well.
 
 Dante was in trouble for *the Divine Comedy*, Milton for *Paradise Lost* and Dafoe for his *Political history of the devil*.
 
@@ -40,6 +38,10 @@ And politics and political science got people into conflict with Rome too. Zola'
 ![Some of Voltaire's works in the 1770 edition of the Index](/images/voltaire_1770_ed.png)
 (Some of Voltaire's works in the 1770 edition of the Index)
 
-The writer who comes in for the most citations is Voltaire. He appears 31 times in the Index -- and he found himself in trouble this month too, as someone in Paris [covered him in red paint](https://www.france24.com/en/20200622-protesters-daub-paris-statues-of-voltaire-french-colonial-era-general-in-red-paint) as calls continue for various colonial-era statues to be removed.
+The writer who comes in for the most citations is Voltaire. He appears 31 times in the Index -- for everything from *Candide* to contributing to an edition of Pascal's *Pensées*.
+
+This week he found himself out of favour again as someone in Paris [covered him in red paint](https://www.france24.com/en/20200622-protesters-daub-paris-statues-of-voltaire-french-colonial-era-general-in-red-paint), apparently unhappy that part of the philosopher's fortune came in part from trade in the French colonies.
+
+The Index was [first published](https://www.newadvent.org/cathen/07721a.htm) under Paul IV in 1559 and the last edition appeared in 1948. Paul VI [abolished it officially](https://www.britannica.com/topic/Index-Librorum-Prohibitorum) in 1966.
 
 * [The repo with all the data and python notebook is here](https://github.com/aodhanlutetiae/index)
