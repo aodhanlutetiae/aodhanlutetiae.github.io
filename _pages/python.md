@@ -24,6 +24,8 @@ This is a collection of some of the better resources for learning Python.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Data Science from Scratch](https://github.com/ab-anand/py-books/blob/master/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf)
 - [Google's Python Class](https://developers.google.com/edu/python/)
+- [Introductory Python by Jonathan Soma at Columbia](http://littlecolumns.com/learn/python/)
+- [Very nice Intermediate Python course by Matt Williams](https://milliams.com/courses/intermediate_python/h)
 - [Socratica -- YouTube](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 - [Introduction to Python via Socratica videos](https://www.jhanley.com/videolabs/Introduction-to-Python/#0)
 - [Python topics -- The freeCodeCamp Forum](https://www.freecodecamp.org/news/search/?query=python)
