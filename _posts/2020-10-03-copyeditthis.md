@@ -10,9 +10,9 @@ tags:
 
 This is a collection of all the wonderful *New York Times* subediting quizzes, mostly so I can find them when I need them.
 
-The NYT's standards editor Philip B. Corbett started the quizzes in July 2016 with an introductory quiz that that you can find [here](https://www.nytimes.com/2016/07/19/insider/you-be-the-copy-editor.html). In it he explains that “[New York] Times writers and editors publish 125,000 or more words a day”.
+The NYT's standards editor [Philip B. Corbett](https://twitter.com/corbettnyt) started the quizzes in July 2016 with an introductory quiz that that you can find [here](https://www.nytimes.com/2016/07/19/insider/you-be-the-copy-editor.html). In it he explains that “[New York] Times writers and editors publish 125,000 or more words a day”.
 
-The official 'number 1 quiz' dates from November that year and adopted the interface that allows users to click on the problematic word or passage.
+The official 'number 1 quiz' dates from November that year and adopted the interface that we know today and which allows users to click on the problematic word or passage.
 
 - [Quiz no. 1, November 2016](https://www.nytimes.com/interactive/2016/11/11/insider/copy-edit-this-quiz.html)
 - [Quiz no. 2, December 2016](https://www.nytimes.com/interactive/2016/12/12/insider/copy-edit-this-quiz-2.html)
