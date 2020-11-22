@@ -50,7 +50,6 @@ This is a collection of some of the better resources for learning Python.
 - [Python basics Udemy](https://www.udemy.com/python-core-and-advanced/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-3cVLGRfkxmcjk9GPSJIRtQ&LSNPUBID=JVFxdTr9V80)
 - [Python 5 course track Coursera](https://www.coursera.org/specializations/python#courses)
 - [Corey Schafer Python classes -- You Tube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-- [Kevin Markham Python & Pandas tutorials -- You Tube](https://www.youtube.com/user/dataschool)
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/)
 - [Python for Everybody - 13hr Course with Dr. Chuck - YouTube](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [20 Python libraries you aren't using (but should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should)
