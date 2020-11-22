@@ -6,9 +6,12 @@ main:
 
   - title: "Blog Posts"
     url: /year-archive/
-  # 
+  #
   # - title: "COVID19"
   #   url: /covid19/
 
   - title: "Python"
     url: /python/
+
+  - title: "Pandas"
+    url: /pandas/
