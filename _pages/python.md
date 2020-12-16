@@ -28,6 +28,7 @@ This is a collection of some of the better resources for learning Python.
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Cisco's Essential Python Course](https://www.netacad.com/portal/web/self-enroll/c/course-1078863)
 - [Open University Python for Data Analysis](https://www.open.edu/openlearn/science-maths-technology/learn-code-data-analysis/content-section-overview?active-tab=description-tab)
+- [The Programming Historian - Python for Digital Humanities](https://programminghistorian.org/en/lessons/?topic=python)
 - [Introductory Python by Jonathan Soma at Columbia](http://littlecolumns.com/learn/python/)
 - [Very nice Intermediate Python course by Matt Williams](https://milliams.com/courses/intermediate_python/h)
 - [Socratica -- YouTube](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
