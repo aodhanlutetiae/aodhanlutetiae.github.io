@@ -22,9 +22,12 @@ Smaller than the Python list, but that's why we need it.
 
 Textbooks held at Cardiff University
 
-- [Chen, *Pandas for everyone*, 2017](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125210150002420)
 - [Harrison, *Pandas 1 x cookbook*, 2020](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156095570002420)
-- [Heydt, *Learning Pandas*, 2nd ed., 2017](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_igpublishing_primary_PACKT0000405)
-- [Kumar, *Mastering Pandas*, 2nd ed., 2019](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789343236)
 - [McKinney, *Python for data analysis*, 2017](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125415750002420)
+- [Heydt, *Learning Pandas*, 2nd ed., 2017](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_igpublishing_primary_PACKT0000405)
+- [Chen, *Pandas for everyone*, 2017](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51125210150002420)
+
+Textbooks held at Cardiff University — slightly more advanced
+
 - [Stepanek, *Thinking in pandas*, 2020](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9781484258392)
+- [Kumar, *Mastering Pandas*, 2nd ed., 2019](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781789343236)
