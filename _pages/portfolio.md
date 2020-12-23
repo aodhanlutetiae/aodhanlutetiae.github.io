@@ -7,15 +7,15 @@ author_profile: true
 
 Here is some work, from polished and published to ... fun projects.
 
-[Radio documentary: An Irish hospital in Normandy, *RTE* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
+An Irish hospital in Normandy, *RTE Radio 1* (2020, 50')](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
 [Running list of interesting datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
 
-[Search the Shakespeare Sonnets for a term](https://wssonnets.herokuapp.com/)
+[Search Shakespeare's Sonnets for a word](https://wssonnets.herokuapp.com/)
 
-[My Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via)
+[Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via)
 
-[TV report: Eritrea, a nation of cyclists, *France 24* (2018)](https://www.youtube.com/watch?v=0_9CY1EEwTk)
+[Eritrea, a nation of cyclists, *France 24* (2018)](https://www.youtube.com/watch?v=0_9CY1EEwTk)
 
 [Bike racing on the Tour of Eritrea, *Quartz* (2017)](https://qz.com/africa/1036533/eritreas-cycling-in-tour-of-eritrea-is-part-of-a-long-tradition-despite-its-isolation/)
 

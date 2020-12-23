@@ -12,7 +12,7 @@ redirect_from:
 
 Smaller than the Python list, but that's why we need it.
 
-- [The Programming Historian's lessson 'Data cleaning with pandas'. Under review.](http://programminghistorian.github.io/ph-submissions/lessons/crowdsourced-data-cleaning-with-pandas)
+- [The Programming Historian's lesson 'Data cleaning with pandas'. Under review.](http://programminghistorian.github.io/ph-submissions/lessons/crowdsourced-data-cleaning-with-pandas)
 - [Pandas lessons(starts with '10 mins to pandas')](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 - [Kaggle's Pandas course](https://www.kaggle.com/learn/pandas)
 - [Kevin Markham Pandas YT playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
