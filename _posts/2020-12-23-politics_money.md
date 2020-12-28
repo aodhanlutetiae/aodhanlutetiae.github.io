@@ -1,11 +1,11 @@
 ---
 title: 'Money for ... something'
-date: 2020-10-03
+date: 2020-12-28
 permalink: /posts/2020/12/blog-post-14/
 tags:
-  - UK
   - British politics
   - Data journalism
+  - Lords
 ---
 
 The Guardian has closed out 2020 with a series of pieces on what's wrong with the Lords. 'Lords reform' now exists on the site [as a dedicated category](https://www.theguardian.com/politics/lordreform). Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas:
