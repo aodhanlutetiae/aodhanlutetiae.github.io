@@ -8,7 +8,7 @@ tags:
   - Lords
 ---
 
-The Guardian has closed out 2020 with a series of pieces on what's wrong with the Lords. Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas:
+The Guardian has closed out 2020 with a series of pieces on what's (still) wrong with the Lords. Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas:
 
 > "In 2006, Tony Blair was embroiled in a cash-for-honours affair that resulted in a criminal investigation but no charges. One newspaper columnist wrote that the case illustrated “the decay of government and the putrefaction of the honours system”. That journalist was Boris Johnson, who earlier this week used his privilege as prime minister to ennoble Peter Cruddas, a businessman, philanthropist and Conservative party donor. Mr Cruddas’s name had been rejected by the Lords appointments commission. Mr Johnson deemed their judgment unfair and overruled it."
 
@@ -53,6 +53,6 @@ Yet most of this had been seen before. An [investigation](https://www.opendemocr
 
 - [Peter Walker & Ben Quinn. Boris Johnson 'still committed to Lords reduction' despite 36 peerages, *Guardian*, Aug 3, 2020](https://www.theguardian.com/politics/2020/aug/03/no-10-boris-johnson-pm-still-committed-lords-reduction-despite-36-peerages)
 
-- [Simon Radford, Andrew Mell & Seth Alexander Thevoz. ‘Lordy Me!’ Can donations buy you a British peerage? A study in the link between party political funding and peerage nominations, 2005–2014. British Politics volume 15, 2020, p. 135–59, 2020](https://link.springer.com/article/10.1057/s41293-019-00109-4)
-
 - [Peter Geoghegan, Seth Thévoz & Jenna Corderoy. Cabinet Office urged to investigate fresh Tory ‘cash for honours’ scandal. Dec 3, 2019](https://www.opendemocracy.net/en/dark-money-investigations/cabinet-office-urged-to-investigate-fresh-tory-cash-for-honours-scandal/)
+
+- [Simon Radford, Andrew Mell & Seth Alexander Thevoz. ‘Lordy Me!’ Can donations buy you a British peerage? A study in the link between party political funding and peerage nominations, 2005–2014. British Politics volume 15, March 14, 2019, p. 135–59, 2020](https://link.springer.com/article/10.1057/s41293-019-00109-4)
