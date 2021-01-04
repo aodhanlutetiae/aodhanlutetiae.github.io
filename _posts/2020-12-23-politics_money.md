@@ -8,7 +8,7 @@ tags:
   - Lords
 ---
 
-The Guardian has closed out 2020 with a series of pieces on what's (still) wrong with the Lords. Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas:
+The Guardian has closed out 2020 with a series of pieces on what's (still) wrong with the Lords. Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas.
 
 > "In 2006, Tony Blair was embroiled in a cash-for-honours affair that resulted in a criminal investigation but no charges. One newspaper columnist wrote that the case illustrated “the decay of government and the putrefaction of the honours system”. That journalist was Boris Johnson, who earlier this week used his privilege as prime minister to ennoble Peter Cruddas, a businessman, philanthropist and Conservative party donor. Mr Cruddas’s name had been rejected by the Lords appointments commission. Mr Johnson deemed their judgment unfair and overruled it."
 
@@ -20,13 +20,13 @@ Also on the Guardian site the same day the Lord Speaker, Norman Fowler, [called 
 
 This followed [the report](https://www.ft.com/content/5a456127-6f9a-4f87-aacc-5a54d8da8da7) a few months' earlier in the Financial Times that
 
-> "The elevation of the billionaire businessman and Tory party benefactor Michael Spencer to the House of Lords on Friday means that at least 22 former donors to political parties have been given peerages in the past 13 years, according to calculations by the Financial Times."
+> "at least 22 former donors to political parties have been given peerages in the past 13 years, according to calculations by the Financial Times."
 
-That was after 36 new Lords were added to the House in July. The [Guardian's analysis](https://www.theguardian.com/politics/2020/aug/03/no-10-boris-johnson-pm-still-committed-lords-reduction-despite-36-peerages) noted that very few of the 800+ Lords knew anything about the main business of 2020, health.
+That was after 36 new Lords were added to the House in July. The [Guardian's analysis](https://www.theguardian.com/politics/2020/aug/03/no-10-boris-johnson-pm-still-committed-lords-reduction-despite-36-peerages) noted that even with the new arrivals very few of the 800+ Lords knew anything about the main business of 2020, health.
 
 > "Not a single peer comes primarily from a manual or skilled trade background, according to data from the Electoral Reform Society. As the UK faces its greatest public health crisis in more than 100 years, just 2.2% work in healthcare, compared with one in 10 of the general public."
 
-Yet most of this had been seen before. An [investigation](https://www.opendemocracy.net/en/dark-money-investigations/cabinet-office-urged-to-investigate-fresh-tory-cash-for-honours-scandal/) by OpenDemocracy and [research by academics](https://link.springer.com/article/10.1057/s41293-019-00109-4) the year before had found similar problems with who was getting appointed to the Lords, and why.
+Yet much of this had been seen before. An [investigation](https://www.opendemocracy.net/en/dark-money-investigations/cabinet-office-urged-to-investigate-fresh-tory-cash-for-honours-scandal/) by OpenDemocracy and [research by academics](https://link.springer.com/article/10.1057/s41293-019-00109-4) the year before had found similar problems with who was getting appointed to the Lords, and why.
 
 
 

@@ -1,0 +1,31 @@
+---
+title: 'A month of traffic counted'
+date: 2021-01-05
+permalink: /posts/2020/12/blog-post-15/
+tags:
+  - traffic
+  - sensors
+  - data collection
+  - Cardiff
+---
+
+![Cardiff streets where monitoring is taking place](/images/map_traffic.jpg)
+
+The Telraam sensor has been looking out my window for a month, collecting the number of moving things it sees. What has it counted and what does it mean?
+
+**There are a lot of bicycles**
+
+A cyclist comes down the road every seven minutes on average in daylight hours. This can reach 20 bikes in a busy hour, or none if it's quiet. The busiest day of the week is Saturday with usually more than 100 bikes during daylight and the quietest is Sunday (around 40).
+
+That makes close to 2,000 cyclists passing this way over the month.
+
+
+**The data**
+
+The first thing we learn about its data is that sometimes it's not very good. As explained [on the project website](https://telraam.zendesk.com/hc/en-us/articles/360027325572-Want-more-data-Telraam-API), the sensor is never running 100% of the time. The data shows us
+
+> the percentage of time (between 0 and 1 –> 0% to 100%) the Telraam camera was actively counting traffic in the one hour interval. This is almost never 1 (100%), because in standard operation background calculation, intervals break the continuous measurements every couple of minutes for a half minute, and during the background calculation no active measurements are being carried out.
+
+This appears to be a problem this month (December) from 4pm to 5pm because data is collected but it's often not very good, presumably since the light is fading at this time of day. The sensor drops to 'barely running at all' and seem to make suspicious claims like 'this hour there was an army of over fifty cyclists going one way down this quiet road (and, erm, nobody in the other direction)'.
+
+So a day, for now, will have to just be the eight hours of good(ish) daylight from 8am to 4pm.
