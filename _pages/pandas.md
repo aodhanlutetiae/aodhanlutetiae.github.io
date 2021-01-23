@@ -17,7 +17,7 @@ Smaller than the Python list, but that's why we need it.
 - [Kaggle's Pandas course](https://www.kaggle.com/learn/pandas)
 - [Open University's Pandas course for Data Analysis](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=83244) with [code](https://github.com/mwermelinger/Learn-to-code-for-data-analysis)
 - [Kevin Markham Pandas YT playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
-- [A list of all 24 of Datacamp's pandas courses](https://learn.datacamp.com/search?q=pandas)
+- [A list of Datacamp's 24 pandas courses](https://learn.datacamp.com/search?q=pandas)
 - [The Programming Historian's lesson 'Data cleaning with pandas'. Under review.](http://programminghistorian.github.io/ph-submissions/lessons/crowdsourced-data-cleaning-with-pandas)
 
 
