@@ -30,7 +30,8 @@ Here is some work, from polished and published to ... fun projects.
 [Rap, poetry & West Africa: two audio postcards, *RFI* (2009)](https://soundcloud.com/aodhanlutetiae/du-griot-au-slammeur-2)
 
 **Teaching**
-[Data journalism module](https://github.com/aodhanlutetiae/data_journalism_jomec)
+
+- [Data journalism module](https://github.com/aodhanlutetiae/data_journalism_jomec)
 
 {% include base_path %}
 
