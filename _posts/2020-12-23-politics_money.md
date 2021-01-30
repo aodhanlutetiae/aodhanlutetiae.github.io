@@ -7,7 +7,7 @@ tags:
   - Data journalism
   - Lords
 ---
-**It's a part of the UK's political system that is badly designed: it doesn't have the expertise the country needs, it's much bigger than it should be, and it appoints people at best because of who they know and at worst because of financial donations. Everyone agrees (or says they agree) that something needs to change but little does, in the House of Lords.**
+It's a part of the UK's political system that is badly designed: it doesn't have the expertise the country needs, it's much bigger than it should be, and it appoints people at best because of who they know and at worst because of financial donations. Everyone agrees (or says they agree) that something needs to change but little does. It's the House of Lords.
 
 The Guardian has closed out 2020 with a series of pieces on what's (still) wrong with the Lords. Its [editorial](https://www.theguardian.com/commentisfree/2020/dec/23/the-guardian-view-on-crony-peerages-a-deeply-rotten-tradition) just before Christmas was in response to the Prime Minister's latest appointment to the upper house, Peter Cruddas.
 
