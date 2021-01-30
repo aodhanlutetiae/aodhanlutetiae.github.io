@@ -7,7 +7,7 @@ author_profile: true
 
 Here is some work, from polished and published to ... fun projects.
 
-[An Irish hospital in Normandy, *RTE Radio 1* (2020, 50')](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
+[An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
 [Running list of interesting datasets](https://docs.google.com/document/d/1jwWhnAXX1ctCH7C4Q3De6Za8PV5Xo61gCfeMVOeIUTg/edit?usp=sharing)
 
@@ -25,7 +25,7 @@ Here is some work, from polished and published to ... fun projects.
 
 [Getting oil from Uganda's Lake Albert region, *Newstalk* (2011)](https://soundcloud.com/aodhanlutetiae/oil-exploration-in-ugandas)
 
-[Doctoral thesis (2010)](https://aodhanlutetiae.github.io/files/Leroledelalfabeto1600-1650-ODONNELL-compressed.pdf)
+[Doctoral thesis, Université Paris IV Sorbonne (2010)](https://aodhanlutetiae.github.io/files/Leroledelalfabeto1600-1650-ODONNELL-compressed.pdf)
 
 [Rap, poetry & West Africa: two audio postcards, *RFI* (2009)](https://soundcloud.com/aodhanlutetiae/du-griot-au-slammeur-2)
 
