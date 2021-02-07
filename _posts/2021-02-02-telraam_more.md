@@ -18,12 +18,11 @@ At its busiest from December to January, the street saw a bike every 90 seconds 
 
 There is never a day without a cyclist.
 
-Bikes outnumber cars more than a quarter of the time, which is higher than I would have guessed. Admittedly, mine is not a very useful route for cars — see [Context](#context) below — but the fact that for two hours a day (on average) there are fewer bikes than cars on a Cardiff road is one that cycling advocates will point to as "it *can* be done".
-
-Even if we include bigger vehicles, bikes still outnumbered all vehicles in 20% of the hourly counts. Viewed weekly of course, there are always more cars every week.
+Bikes outnumber cars more than a quarter of the time, which is higher than I would have guessed. Admittedly, mine is not a very useful route for cars — see [Context](#context), below — but the fact that for two hours a day (on average) there are fewer bikes than cars on a Cardiff road is one that cycling advocates will point to as evidence that "it *can* be done".
 
 ![bikes and cars on a Cardiff road](/images/bikes_cars_total.png)
 
+Even if we include bigger vehicles, bikes still outnumbered all vehicles in 20% of the hourly counts. Viewed weekly of course, there are always more cars.
 
 <a name="context">
 **Context**
