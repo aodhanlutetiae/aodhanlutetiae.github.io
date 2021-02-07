@@ -14,15 +14,15 @@ The [We Count Project](https://www.we-count.net/about) started in Belgium in 201
 
 **Constant bikes**
 
-At its busiest from December to January, the street saw a bike every 90 seconds (the morning of New Year's Eve) but on average it's just a little busier than one bicycle every ten minutes. There are times when no cyclists go past but generally they're remarkably constant: if you wait two days, on average, there will be a bicycle-free hour but otherwise every hour sees at least one cyclist appear.
+The busiest hour between December and January saw a bike on the street every 90 seconds (the morning of New Year's Eve) but on average it's just a little busier than one bicycle every ten minutes. There are times when no cyclists go past but generally it's remarkably constant: if you wait two days, on average, there will be a bicycle-free hour but otherwise every hour sees at least one cyclist appear.
 
 There is never a day without a cyclist.
 
 Bikes outnumber cars more than a quarter of the time, which is higher than I would have guessed. Admittedly, mine is not a very useful route for cars — see [Context](#context), below — but the fact that for two hours a day (on average) there are fewer bikes than cars on a Cardiff road is one that cycling advocates will point to as evidence that "it *can* be done".
 
-![bikes and cars on a Cardiff road](/images/bikes_cars_total.png)
-
 Even if we include bigger vehicles, bikes still outnumbered all vehicles in 20% of the hourly counts. Viewed weekly of course, there are always more cars.
+
+![bikes and cars on a Cardiff road](/images/bikes_cars_total.png)
 
 <a name="context">
 **Context**
