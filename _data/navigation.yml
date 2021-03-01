@@ -15,3 +15,6 @@ main:
 
   - title: "Pandas"
     url: /pandas/
+
+  - title: "OSINT"
+    url: /osint/
