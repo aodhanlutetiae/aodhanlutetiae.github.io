@@ -15,6 +15,8 @@ Here is some work, from polished and published to ... fun projects.
 
 [Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via)
 
+[A language-generator to complain about NGO-ese](https://ngo-button.glitch.me/)
+
 [Eritrea, a nation of cyclists, *France 24* (2018)](https://www.youtube.com/watch?v=0_9CY1EEwTk)
 
 [Bike racing on the Tour of Eritrea, *Quartz* (2017)](https://qz.com/africa/1036533/eritreas-cycling-in-tour-of-eritrea-is-part-of-a-long-tradition-despite-its-isolation/)
