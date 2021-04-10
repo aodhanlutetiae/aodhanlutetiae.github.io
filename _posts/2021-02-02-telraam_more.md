@@ -10,7 +10,7 @@ tags:
   - bicycles
 ---
 
-The [We Count Project](https://www.we-count.net/about) started in Belgium in 2019 and a year ago it expanded [to several other European countries](https://www.bbc.co.uk/news/world-europe-51123760). My sensor in Cardiff now has two months of data gathered by looking out of my house onto a quiet residential street while there's daylight.
+The [We Count Project](https://www.we-count.net/about) started in Belgium in 2019 and a year ago it expanded [to several other European countries](https://www.bbc.co.uk/news/world-europe-51123760). My sensor in Cardiff now has two months of data gathered by looking out of my house onto a quiet residential street while there's daylight, in one-hour slices.
 
 **Constant bikes**
 
@@ -18,7 +18,7 @@ The busiest hour between December and January saw a bike on the street every 90 
 
 There is never a day without a cyclist.
 
-Bikes outnumber cars more than a quarter of the time, which is higher than I would have guessed. Admittedly, mine is not a very useful route for cars — see [Context](#context), below — but the fact that for two hours a day (on average) there are fewer bikes than cars on a Cardiff road is one that cycling advocates will point to as evidence that "it *can* be done".
+Bikes outnumber cars more than a quarter of the time, i.e. for more than a quarter of the one-hour slices in the period. This, I think, is higher than I would have guessed. Admittedly, mine is not a very useful route for cars — see [Context](#context), below — but the fact that for two hours a day (on average) there are more bikes than cars on a Cardiff road is one that cycling advocates will point to as evidence that "it *can* be done".
 
 Even if we include bigger vehicles, bikes still outnumbered all vehicles in 20% of the hourly counts. Viewed weekly of course, there are always more cars.
 
