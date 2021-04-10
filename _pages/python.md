@@ -12,6 +12,10 @@ redirect_from:
 
 This is a collection of some of the better resources for learning Python.
 
+- [Python for journalists (NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
+- [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
+- [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
+
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Python for Everyone](https://www.py4e.com/book)
 - [Python for everyone course](https://www.py4e.com/lessons)
@@ -35,17 +39,12 @@ This is a collection of some of the better resources for learning Python.
 - [Python Tutorial by SoloLearn](https://www.sololearn.com/Course/Python/)
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Python Tutorial](https://www.tutorialspoint.com/python)
-- [Learn Python by Building 5 Games (You Tube 7 hours)](https://www.youtube.com/watch?v=XGf2GcyHPhc)
-- [A dozen Python projects for beginners (You Tube 3 hours)](https://www.youtube.com/watch?v=8ext9G7xspg)
 - [Learn Data Analysis with Python - Free Code Camp](https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/)
 - [Free Code Camp (detailed) overview](https://www.freecodecamp.org/news/the-python-handbook/)
 - [Python topics -- Free Code Camp Forum](https://www.freecodecamp.org/news/search/?query=python)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
-- [HackInScience Basic Python exercises](https://www.hackinscience.org/exercises/)
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/02-introduction-to-python/)
 - [NSA learn python coursebook](https://deeb.io/wrdprs/wp-content/uploads/2020/02/comp3321_red.pdf) [background here](https://dev.to/instantiator/learn-python-from-the-nsa-3d4o)
-- [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
-- [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
 - [Python Tutorials by topic (beginner to intermediate)](https://www.learnpython.org/)
 - [Linkedin Python courses](https://www.linkedin.com/learning/search?keywords=python%20course)
 - [Python Programming Tutorials](https://pythonprogramming.net/)
@@ -53,4 +52,8 @@ This is a collection of some of the better resources for learning Python.
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/)
 - [Python for Everybody - 13hr Course with Dr. Chuck - YouTube](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [Luciano Ramalho youtube videos (author of Fluent Python)](https://www.youtube.com/results?search_query=luciano+ramalho)
+
+- [HackInScience Basic Python exercises](https://www.hackinscience.org/exercises/)
+- [Learn Python by Building 5 Games (You Tube 7 hours)](https://www.youtube.com/watch?v=XGf2GcyHPhc)
+- [A dozen Python projects for beginners (You Tube 3 hours)](https://www.youtube.com/watch?v=8ext9G7xspg)
 - [50 Python Interview Questions and Answers](https://dev.to/educative/50-python-interview-questions-and-answers-nh2)
