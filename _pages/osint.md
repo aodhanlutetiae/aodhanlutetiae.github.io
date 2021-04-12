@@ -10,7 +10,7 @@ redirect_from:
 
 ======
 
-I have finally put some OSINT practice questions we've used in class on a [heroku app](https://osintquiz.herokuapp.com/). Warning: the page takes a moment to load since the app has to wake up.
+I have finally put some OSINT practice questions we've used in class on a [heroku app](https://osintquiz.herokuapp.com/). The page takes a moment to load since the app has to wake up.
 
 
 **Other quizzes**

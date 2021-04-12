@@ -15,7 +15,6 @@ This is a collection of some of the better resources for learning Python.
 - [Python for journalists (NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
 - [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
 - [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
-
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Python for Everyone](https://www.py4e.com/book)
 - [Python for everyone course](https://www.py4e.com/lessons)
@@ -52,7 +51,6 @@ This is a collection of some of the better resources for learning Python.
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/)
 - [Python for Everybody - 13hr Course with Dr. Chuck - YouTube](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [Luciano Ramalho youtube videos (author of Fluent Python)](https://www.youtube.com/results?search_query=luciano+ramalho)
-
 - [HackInScience Basic Python exercises](https://www.hackinscience.org/exercises/)
 - [Learn Python by Building 5 Games (You Tube 7 hours)](https://www.youtube.com/watch?v=XGf2GcyHPhc)
 - [A dozen Python projects for beginners (You Tube 3 hours)](https://www.youtube.com/watch?v=8ext9G7xspg)
