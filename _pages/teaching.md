@@ -10,4 +10,13 @@ redirect_from:
 
 ======
 
-There is a page about teaching.
+Here is some of my teaching material.
+
+- [Reading list for data and computational journalism (all levels)](https://dj-reading.readthedocs.io/en/latest/)
+
+- [Data journalism module (Autumn semester)](https://github.com/aodhanlutetiae/data_journalism_jomec)
+
+- [OSINT practice quiz](https://osintquiz.herokuapp.com/)
+
+
+-
