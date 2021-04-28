@@ -18,5 +18,11 @@ Here is some of my teaching material
 
 - [OSINT practice quiz](https://osintquiz.herokuapp.com/)
 
+- [Github repo for SQL workshop](https://github.com/aodhanlutetiae/dj_SQL)
+
+- [Overview of recommender systems](https://aodhanlutetiae.github.io/dj_recsys/)
+
+- [Datasets and notebooks]()
+
 
 -
