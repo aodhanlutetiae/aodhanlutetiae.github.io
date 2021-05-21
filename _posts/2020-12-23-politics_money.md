@@ -17,7 +17,7 @@ Also on the Guardian site the same day the Lord Speaker, Norman Fowler, [called 
 
 [A piece](https://www.theguardian.com/politics/2020/dec/24/boris-johnson-tory-linked-peerages-raise-fresh-cronyism-claims) by Haroon Sidique the next day observed that:
 
-> "Almost a quarter of peerages awarded this year have been to Conservative party donors, close associates or former colleagues of Boris Johnson, according to analysis by the Guardian, which raises fresh concerns about cronyism.""
+> "Almost a quarter of peerages awarded this year have been to Conservative party donors, close associates or former colleagues of Boris Johnson, according to analysis by the Guardian, which raises fresh concerns about cronyism."
 
 This followed [the report](https://www.ft.com/content/5a456127-6f9a-4f87-aacc-5a54d8da8da7) a few months' earlier in the Financial Times that
 
