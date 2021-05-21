@@ -58,6 +58,18 @@ If you look at the data, you'll see you have four columns:
 
 These are companies in England that charged customers for single-use plastic bags in 2018-19 and 2019-20. It shows how many bags each retailer issued and how much money it collected from charging customers for them. The data was published in 2020 by DEFRA, the Department for Environment, Food and Rural Affairs.
 
+---
+**NAVIGATING THE SHEET**
+
+<img src="/images/walkthroughs/wt3.png" alt="drawing">
+
+Under the menu **View**, choose **Freeze** then **1 row**. This will maintain the column names in place as you scroll down through the sheet.
+
+You can adjust the width of the four columns.
+
+
+
+
 
 ---
-Now, see if you can repeat all those steps with a different file: the same data but for two earlier years
+Now, see if you can repeat all those steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
