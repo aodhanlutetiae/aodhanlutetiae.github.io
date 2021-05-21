@@ -34,4 +34,14 @@ If asked in a dialogue box about **Import Location**, select **Insert New Sheet*
 
 You should now have the CSV file in your Sheet:
 
-<img src="/images/walkthroughs/wt1.png" alt="drawing" width="20"/>
+<img src="/images/walkthroughs/wt1.png" alt="drawing" width="200"/>
+
+**Organising your Sheet**
+
+In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a new Sheet with a tab called **Copy of bags_2years**. Double click on this tab and rename it as **data**.
+
+<img src="/images/walkthroughs/wt2.png" alt="drawing" width="200"/>
+
+Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your file was taken:
+
+> https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
