@@ -25,6 +25,7 @@ This is a collection of some of the better resources for learning Python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [The Python Cookbook](https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf)
 - [Python for Data Analysis](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
+- [Kaggle Python course](https://www.kaggle.com/learn/python)
 - [Python Data Analytics](https://raw.githubusercontent.com/Jffrank/Books/master/Python%20Data%20Analytics_%20Data%20Analysis%20and%20Science%20Using%20Pandas%2C%20matplotlib%2C%20and%20the%20Python%20Programming%20Language.pdf)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
