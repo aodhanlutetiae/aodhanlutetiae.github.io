@@ -12,7 +12,7 @@ redirect_from:
 
 This is a collection of some of the better resources for learning Python.
 
-- [Python for journalists (NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
+- [Python for journalists (via NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
 - [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
 - [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
