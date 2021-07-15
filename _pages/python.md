@@ -27,6 +27,7 @@ This is a collection of some of the better resources for learning Python.
 - [Python for Data Analysis](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
 - [Kaggle Python course](https://www.kaggle.com/learn/python)
 - [Python Data Analytics](https://raw.githubusercontent.com/Jffrank/Books/master/Python%20Data%20Analytics_%20Data%20Analysis%20and%20Science%20Using%20Pandas%2C%20matplotlib%2C%20and%20the%20Python%20Programming%20Language.pdf)
+- [Python crash course (Matthes)](https://ehmatthes.github.io/pcc/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - [Cisco's Essential Python Course](https://www.netacad.com/portal/web/self-enroll/c/course-1078863)
