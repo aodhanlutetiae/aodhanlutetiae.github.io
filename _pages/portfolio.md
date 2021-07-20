@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Here is some work, from polished and published to ... fun projects.
+Here is some work, from polished and published to ... fun.
 
 [An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
