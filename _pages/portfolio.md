@@ -34,3 +34,11 @@ Here is some work, from polished and published to ... fun.
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+<!-- odds and ends to go somewhere
+folding for research
+gimp for mersenne primes
+wecount
+freecodecamp translation
+refugee journalism project
+ -->
