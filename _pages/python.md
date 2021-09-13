@@ -21,7 +21,7 @@ This is a collection of some of the better resources for learning Python.
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 - [Code Academy Python courses](https://www.codecademy.com/catalog/language/python)
 - [Datacamp](https://learn.datacamp.com/search?q=python)
-- [Educative](https://www.educative.io/explore?search_string=&skills=python&pageNo=1)
+- [Educative](https://www.educative.io/courses/learn-python-3-from-scratch)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Repl.it 6-part introduction to Python](https://docs.repl.it/curriculum/introPython)
 - [Dive into Python 3](https://diveintopython3.net/index.html)
