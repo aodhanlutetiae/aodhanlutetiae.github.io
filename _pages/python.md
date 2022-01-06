@@ -12,6 +12,7 @@ redirect_from:
 
 This is a collection of some of the better resources for learning Python.
 
+- [Kyle Walker's Python for Data Analysis course at Texas Christian University](https://walker-data.com/geog30323/)
 - [Python for journalists (via NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
 - [Python for journalists](https://datajournalism.com/watch/python-for-journalists)
 - [Materials for a one-hour intro to Python for journalists](https://github.com/ireapps/teaching-guide-python-101)
@@ -46,6 +47,7 @@ This is a collection of some of the better resources for learning Python.
 - [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Python Tutorial](https://www.tutorialspoint.com/python)
 - [Free code camp: Python for Scientific Computing / Data analysis](https://www.freecodecamp.org/learn/)
+- [Free code camp: Python for data analysis (overview)](https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/)
 - [W3 Python exercises](https://www.w3resource.com/python-exercises/)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Learn Python by Nina Zakharenko](https://www.learnpython.dev/02-introduction-to-python/)
