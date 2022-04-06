@@ -18,6 +18,7 @@ Smaller than the Python list, but that's why we need it.
 - [Open University's Pandas course for Data Analysis](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=83244) with [code](https://github.com/mwermelinger/Learn-to-code-for-data-analysis)
 - [Kevin Markham Pandas youtube playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 - [The Programming Historian. Pandas lesssons](https://programminghistorian.org/en/lessons/?search=pandas)
+- [Jonathan Soma's NICAR 2022 workshop](https://github.com/jsoma/NICAR22-pandas)
 
 
 Textbooks held at Cardiff University (all online access)
