@@ -31,3 +31,8 @@ Here is some of my teaching material
 - [2-day introduction to data journalism](https://aodhanlutetiae.github.io/dj/)
 - [Practicing data journalism](https://aodhanlutetiae.github.io/dj/)
 - [Using data securely](https://aodhanlutetiae.github.io/dj_secure/)
+
+### Testing maths notation in markdown
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
