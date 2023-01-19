@@ -16,8 +16,6 @@ Here is some of my teaching material
 
 - [Data journalism module repo (Autumn semester)](https://github.com/aodhanlutetiae/dj_2021)
 
-- [OSINT practice quiz](https://osintquiz.herokuapp.com/)
-
 - [SQL workshop repo (Spring semester)](https://github.com/aodhanlutetiae/dj_SQL)
 
 - [QGIS workshop repo (Spring semester)](https://github.com/aodhanlutetiae/QGIS)

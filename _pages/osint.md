@@ -10,10 +10,7 @@ redirect_from:
 
 ======
 
-I have finally put some OSINT practice questions we've used in class on a [heroku app](https://osintquiz.herokuapp.com/). The page takes a moment to load since the app has to wake up.
-
-
-**Other quizzes**
+Here are some quizzes for working on your OSINT skills.
 
 There are two great CTF quizzes produced by [@cybersoc](https://cybersoc.wales/) at Cardiff University: [Cyber detective](https://ctf.cybersoc.wales/) and [Cyber investigator](https://investigator.cybersoc.wales/).
 
