@@ -15,6 +15,7 @@ This is a collection of some of the better resources for learning Python.
 - [Kyle Walker's Python for Data Analysis course at Texas Christian University](https://walker-data.com/geog30323/)
 - [Learn Python](https://www.learnpython.org)
 - [Python for journalists (via NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
+- [Python introduction for data analysis (NICAR 2023)](https://github.com/sahanasjay/NICAR-python-data-analysis)
 - [Python for journalists (Datajournalism.com)](https://datajournalism.com/watch/python-for-journalists)
 - [Python for journalists (Materials for one-hour intro)](https://github.com/ireapps/teaching-guide-python-101)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)

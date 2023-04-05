@@ -7,9 +7,9 @@ author_profile: true
 
 Here is some work, from polished and published to ... fun.
 
-[An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
+[Audio transcription service (via Whisper)](https://aodhancaerdydd.pythonanywhere.com/)
 
-[Search Shakespeare's Sonnets for a word](https://wssonnets.herokuapp.com/)
+[An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
 [Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via)
 
