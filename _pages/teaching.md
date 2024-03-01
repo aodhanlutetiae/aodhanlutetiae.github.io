@@ -12,7 +12,7 @@ redirect_from:
 
 Here is some of my teaching material
 
-- [Reading list for data and computational journalism (all levels)](https://dj-reading.readthedocs.io/en/latest/)
+- [Reading list for data and computational journalism (all levels)](https://data-journalism-reading.readthedocs.io/en/latest/)
 
 - [Data journalism module repo (Autumn semester)](https://github.com/aodhanlutetiae/dj_2021)
 
@@ -26,6 +26,5 @@ Here is some of my teaching material
 
 ### Online course
 
-- [2-day introduction to data journalism](https://aodhanlutetiae.github.io/dj/)
-- [Practicing data journalism](https://aodhanlutetiae.github.io/dj/)
+- [Introduction to data journalism: part 1](https://aodhanlutetiae.github.io/dj/) & [part 2](https://aodhanlutetiae.github.io/dj_prod/)
 - [Using data securely](https://aodhanlutetiae.github.io/dj_secure/)
