@@ -8,13 +8,13 @@ tags:
   - food 
 ---
 
-<img src="/images/4_food_safety_picture.jpg" alt="drawing" width="600"/>
-
-*A “da” rating of 4 on an eatery window in Wales. Food hygiene here is “good”* 
-
 UK food inspectors have abandoned plans to use an algorithm in part of their food hygiene rating system after a £100,000 trial. 
 
 Fifteen local authorities took part in the six-week pilot in 2022. But in the end many local authorities found their own solutions to a post-Covid food inspection backlog, and the Food Standards Agency (FSA) said the automation raised too many ethical questions.
+
+<img src="/images/4_food_safety_picture.jpg" alt="drawing" width="300"/>
+
+*A “da” rating of 4 on an eatery window in Wales. Food hygiene here is “good”* 
 
 The technology predicted two things: the hygiene rating of a food outlet that was waiting for inspection, and the probability that it would be broadly “non-compliant” (a 0, 1 or 2 rating) or “compliant” (a 3, 4 or 5 rating). 
 
