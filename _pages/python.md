@@ -12,6 +12,7 @@ redirect_from:
 
 This is a collection of some of the better resources for learning Python.
 
+- [FCC Python for beginners (youtube)](https://www.youtube.com/watch?v=qwAFL1597eM)
 - [Kyle Walker's Python for Data Analysis course at Texas Christian University](https://walker-data.com/geog30323/)
 - [Learn Python](https://www.learnpython.org)
 - [Python for journalists (via NICAR)](https://coding-for-journalists.readthedocs.io/en/latest/)
