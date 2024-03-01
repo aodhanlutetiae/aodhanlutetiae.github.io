@@ -1,11 +1,13 @@
 ---
-title: 'Mapping Council wards for 2022 local elections'
+title: 'Algorithm to suggest food inspections abandoned'
 date: 2024-03-01
 permalink: /posts/2024/03/blog-post-19/
 tags:
   - algorithms
   - councils
 ---
+
+<img src="/images/4_food_safety_picture.jpg" alt="drawing" width="400"/>
 
 UK food inspectors have abandoned plans to use an algorithm in part of their food hygiene rating system after a £100,000 trial. Fifteen local authorities took part in the six-week pilot in 2022. But in the end many local authorities found their own solutions to a post-Covid food inspection backlog, and the Food Standards Agency (FSA) said the automation raised too many ethical questions.
 
