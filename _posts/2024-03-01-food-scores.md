@@ -32,17 +32,24 @@ A more detailed version of the machine’s response shows not just if the outlet
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
 
-This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template). This pilot platform was launched in late 2021 by two government offices that work on data. 
+This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template). This platform was launched as a pilot in late 2021 by two government offices that work on data. 
 
-The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and after a quiet 2023, publication resumed early this year with the details of an algorithm developed for the Cabinet Office.
+The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
+
+The FSA technology was ultimately shelved because the Agency decided that there were "ethical concerns" and that data on demographics and the type of food prepared "could result in biases for certain types of businesses". 
+
+
+**How it works**
+
+<img src="/images/code_ext.jpg" alt="drawing" width="400"/>
+
+*Some of the code that trained the model from existing data and generated predictions for new data*
+
+
 
 
 **Methodology**
 
-The Transparency Recording Standard makes [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai) available.
+The government platform was brought to my attention by a talk at [Open Data Camp 2023](https://www.odcamp.uk/) in Wolverhampton. The Transparency Recording Standard makes available [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai).
 
-I was given, after an FOI request, an outline of the variables used in building the technology and the code used to build the computer model.
-
-A second FOI request returned two pieces of documentation: a user manual and an ethical AI framework.
-
-The government platform was brought to my attention by a talk at Open Data Camp 2023 in Wolverhampton.
+After an FOI request, I was given an outline of the variables used in building the technology and the code used to build the computer model. A second FOI request returned two pieces of documentation: a user manual and an Ethical AI framework.
