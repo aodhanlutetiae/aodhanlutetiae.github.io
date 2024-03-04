@@ -41,7 +41,7 @@ The FSA technology was ultimately shelved because the Agency decided that there 
 
 **How it works**
 
-<img src="/images/code_ext.jpg" alt="drawing" width="600"/>
+<img src="/images/code_ext_ok.jpg" alt="drawing" width="600"/>
 
 *Some of the code that trained the model from existing data and generated predictions for new data*
 
