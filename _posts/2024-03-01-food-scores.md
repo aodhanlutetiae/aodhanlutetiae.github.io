@@ -50,6 +50,6 @@ The FSA technology was ultimately shelved because the Agency decided that there 
 
 **Methodology**
 
-The government platform was brought to my attention by a talk at [Open Data Camp 2023](https://www.odcamp.uk/) in Wolverhampton. The Transparency Recording Standard makes available [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai).
+The government platform was brought to my attention by a talk at [Open Data Camp 2023](https://www.odcamp.uk/) in Wolverhampton; the Transparency Recording Standard makes available [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai).
 
-After an FOI request, I was given an outline of the variables used in building the technology and the code used to build the computer model. A second FOI request returned two pieces of documentation: a user manual and an Ethical AI framework.
+After an FOI request, I was given an outline of the variables used along with the code used to build the computer model. A second FOI request returned two pieces of documentation: a user manual and an Ethical AI framework.
