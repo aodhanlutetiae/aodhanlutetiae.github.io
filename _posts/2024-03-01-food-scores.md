@@ -51,9 +51,9 @@ Although we haven't analysed the code in detail, we know already that it was bas
 
 The data that the machine read, in order to reach its conclusions was of three kinds:
 
-- the Food Standards Agency's own data. This includes lots of details (Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in?). 
+- the Food Standards Agency's own data: Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in?). 
 
-- census information from the local authority area: population size, age structure and density; residents’ country of birth, passport and language; the area’s house prices and economic situation; employment data; life expectancy and disability rate.
+- census information from the local authority area: population size, age structure and density; residents’ country of birth, passport and language; house prices and economic situation; employment data; life expectancy and disability rate.
 
 - an online database that supplies retail information to app developers. As well as the kind of food business and the opening hours, this appears to have told the model if the food outlet could be described as Chinese, Asian, Middle Eastern or Indian. 
 
