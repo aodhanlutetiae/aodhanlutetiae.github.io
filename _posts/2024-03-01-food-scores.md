@@ -16,7 +16,7 @@ Fifteen local authorities took part in the six-week pilot in 2022. But in the en
 
 *A “da” rating of 4 on an eatery window in Wales. Food hygiene here is “good”* 
 
-The technology predicted two things: the hygiene rating of a food outlet that was waiting for inspection, and the probability that it would be broadly “non-compliant” (a 0, 1 or 2 rating) or “compliant” (a 3, 4 or 5 rating). 
+The technology predicted two things: the hygiene rating of a food outlet that was waiting for inspection, and the probability that it would be broadly clean (a 3, 4 or 5 rating). 
 
 <img src="/images/user_guide_p8.jpg" alt="drawing" width="600"/>
 
@@ -32,7 +32,7 @@ A more detailed version of the machine’s response shows not just if an outlet 
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
 
-This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template). It was launched as a pilot in late 2021 by two government offices that work on data. 
+This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template). It was launched as a trial in late 2021 by two government offices that work on data. 
 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
