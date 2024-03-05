@@ -45,7 +45,17 @@ The FSA technology was ultimately shelved because the Agency decided that there 
 
 *Some of the code that trained the model from existing data and generated predictions for new data*
 
+There are two main aspects to how this worked: the data that was provided in order for the machine to infer the likelihood that a food outlet isn't clean, and the code that reads the data, generates the inferences, and returns a recommendation.
 
+Although we haven't analysed the code in detail, we know already that it was based on three machine learning libraries (i.e. third-party computer programs imported into some code to carry out particular tasks): tensorflow, sklearn and lightgbm.
+
+The data that the machine read, in order to reach conclusions was of three different kinds
+
+- the Food Standards Agency's own data. This includes lots of details (Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in?). 
+
+- census information which describes the local authority area: population size, age structure and density; residents’ country of birth, passport and language; the area’s house prices and economic situation; employment data; life expectancy and any / number of disabilities.
+
+- an online database that supplies retail information to app developers. As well as the kind of food business and the opening hours, this appears to have told the model if the food outlet could be described as Chinese, Asian, Middle Eastern or Indian. 
 
 
 **Methodology**
