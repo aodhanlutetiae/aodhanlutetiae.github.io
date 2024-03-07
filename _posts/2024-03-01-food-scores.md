@@ -32,11 +32,11 @@ A more detailed version of the machine’s response shows not just if an outlet 
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
 
-This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template). It was launched as a trial in late 2021 by two government offices that work on data. 
+This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template), which was launched as a trial in late 2021 by two government offices that work on data. 
 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
-The FSA technology was ultimately shelved because the Agency decided that there were "ethical concerns" that data on demographics and the type of food prepared "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
+The FSA technology was ultimately shelved because the Agency decided that there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
 
 
 **How it works**
@@ -51,7 +51,7 @@ Although we haven't analysed the code in detail, we know already that it was bas
 
 The data that the machine read, in order to reach its conclusions was of three kinds:
 
-- the Food Standards Agency's own data: Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in?). 
+- the Food Standards Agency's own data: Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in? 
 
 - census information from the local authority area: population size, age structure and density; residents’ country of birth, passport and language; house prices and economic situation; employment data; life expectancy and disability rate.
 
