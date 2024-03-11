@@ -12,7 +12,7 @@ UK food inspectors have abandoned plans to use an algorithm in part of their foo
 
 Fifteen local authorities took part in the six-week pilot in 2022. But in the end many local authorities found their own solutions to a post-Covid food inspection backlog, and the Food Standards Agency (FSA) said the automation raised too many ethical questions.
 
-<img src="/images/4_food_safety_picture.jpg" alt="drawing" width="400"/>
+<img src="/images/4_food_safety_picture.jpg" alt="drawing" width="600"/>
 
 *A “da” rating of 4 on an eatery window in Wales. Food hygiene here is “good”* 
 
@@ -28,7 +28,7 @@ The code used to train the computer model was released in response to a Freedom 
 
 A more detailed version of the machine’s response shows not just if an outlet is predicted to get a compliant rating (3-4-5) or non-compliant rating (0-1-2) but how *likely* it is to fall into a compliant category.
 
-<img src="/images/user_guide_p9.jpg" alt="drawing" width="800"/>
+<img src="/images/user_guide_p9.jpg" alt="drawing" width="600"/>
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
 
@@ -36,7 +36,7 @@ This technology was first described on a government platform to list algorithms 
 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
-The FSA technology was ultimately shelved because the Agency decided that there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
+The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
 
 
 **How it works**
@@ -47,7 +47,7 @@ The FSA technology was ultimately shelved because the Agency decided that there 
 
 There are two main aspects to how this worked: the data that was provided in order for the machine to infer the likelihood that a food outlet wasn't clean, and the code that read the data, generated the inferences, and returned a recommendation.
 
-Although we haven't analysed the code in detail, we know already that it was based on three particular machine learning libraries: tensorflow, sklearn and lightgbm. ('Libraries' are third-party computer programs imported into some code to carry out particular tasks).
+Although we haven't analysed the code in detail, we know already that it was based on three particular machine learning libraries: tensorflow, sklearn and lightgbm. (Libraries are third-party computer programs imported into some code to carry out particular tasks).
 
 The data that the machine read, in order to reach its conclusions was of three kinds:
 
@@ -55,7 +55,7 @@ The data that the machine read, in order to reach its conclusions was of three k
 
 - census information from the local authority area: population size, age structure and density; residents’ country of birth, passport and language; house prices and economic situation; employment data; life expectancy and disability rate.
 
-- an online database that supplies retail information to app developers. As well as the kind of food business and the opening hours, this appears to have told the model if the food outlet could be described as Chinese, Asian, Middle Eastern or Indian. 
+- retail information for app developers from an online database. As well as the kind of food business and the opening hours, this appears to have told the model if the food outlet could be described as Chinese, Asian, Middle Eastern or Indian. 
 
 What we *don't* have is the training data, i.e. the above information tied to existing Food Safety scores. Only by reading historical cases which link outlets to scores would the machine have been able to infer the likelihood of a new outlet being clean or dirty.
 
