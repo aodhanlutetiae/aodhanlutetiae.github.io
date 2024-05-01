@@ -7,8 +7,6 @@ author_profile: true
 
 Here is some work, from polished and published to ... fun.
 
-<!-- [Audio transcription service (via Whisper)](https://aodhancaerdydd.pythonanywhere.com/) -->
-
 [An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
 [Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via). No longer updating.
@@ -22,6 +20,10 @@ Here is some work, from polished and published to ... fun.
 [From our own correspondent: Burundi rides homes (22' 40"), *BBC* (2015)](https://www.bbc.co.uk/programmes/b04xkg79)
 
 [From our own correspondent: Beer in Ethiopia's holy Muslim city (17' 10"), *BBC* (2014)](https://www.bbc.co.uk/sounds/play/b047w54x)
+
+[Irishman's Diary, Rwanda, 2015](https://www.irishtimes.com/life-and-style/people/an-irishman-s-diary-on-paul-o-connell-and-rugby-in-rwanda-1.2150185)
+
+[Irishman's Diary, Ethiopia, Irish Times, 2014](https://www.irishtimes.com/culture/heritage/an-irishman-s-diary-on-a-match-made-in-ethiopia-1.1872317)
 
 [Getting oil from Uganda's Lake Albert region, *Newstalk* (2011)](https://soundcloud.com/aodhanlutetiae/oil-exploration-in-ugandas)
 

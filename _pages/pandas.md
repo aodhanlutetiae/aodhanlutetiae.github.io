@@ -10,17 +10,17 @@ redirect_from:
 
 ======
 
-Smaller than the Python list, but that's why we need it.
+Shorter than the Python list, but that's why we need it.
 
-- [The Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Kevin Markham Pandas youtube playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 - [Freecodecamp Pandas course](https://www.youtube.com/watch?v=gtjxAH8uaP0)
 - [Datacamp's Pandas courses](https://www.datacamp.com/search?q=pandas)
 - [Datacamp Pandas starter tutorial](https://www.datacamp.com/tutorial/pandas)
 - [Kaggle's Pandas course](https://www.kaggle.com/learn/pandas)
 - [Open University's Pandas course for Data Analysis](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=83244) with [code](https://github.com/mwermelinger/Learn-to-code-for-data-analysis)
-- [Kevin Markham Pandas youtube playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 - [The Programming Historian. Pandas lesssons](https://programminghistorian.org/en/lessons/?search=pandas)
 - [Jonathan Soma's NICAR 2022 workshop](https://github.com/jsoma/NICAR22-pandas) & [teaching guide](https://github.com/ireapps/teaching-guide-intro-to-pandas)
+- [The Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
 
 
 Textbooks held at Cardiff University (all online access)
