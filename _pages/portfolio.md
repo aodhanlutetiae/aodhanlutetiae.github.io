@@ -21,7 +21,7 @@ Here is some work, from polished and published to ... fun.
 
 [From our own correspondent: Beer in Ethiopia's holy Muslim city (17' 10"), *BBC* (2014)](https://www.bbc.co.uk/sounds/play/b047w54x)
 
-[Irishman's Diary, Rwanda, 2015](https://www.irishtimes.com/life-and-style/people/an-irishman-s-diary-on-paul-o-connell-and-rugby-in-rwanda-1.2150185)
+[Irishman's Diary, Rwanda, Irish Times, 2015](https://www.irishtimes.com/life-and-style/people/an-irishman-s-diary-on-paul-o-connell-and-rugby-in-rwanda-1.2150185)
 
 [Irishman's Diary, Ethiopia, Irish Times, 2014](https://www.irishtimes.com/culture/heritage/an-irishman-s-diary-on-a-match-made-in-ethiopia-1.1872317)
 
