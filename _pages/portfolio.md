@@ -7,11 +7,15 @@ author_profile: true
 
 Here is some work, from polished and published to ... fun.
 
-[An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
+[What they talk about in the Welsh parliament (app)](https://seneddwords.streamlit.app/)
+
+[More and more cars in Britain (viz)](https://public.flourish.studio/visualisation/15591576/)
 
 [Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via). No longer updating.
 
 [A language-generator to complain about NGO-ese](https://ngo-button.glitch.me/)
+¡
+[An Irish hospital in Normandy, *RTE Radio 1* (2020)](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 
 [Eritrea, a nation of cyclists, *France 24* (2018)](https://www.youtube.com/watch?v=0_9CY1EEwTk)
 
@@ -37,10 +41,3 @@ Here is some work, from polished and published to ... fun.
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- odds and ends to go somewhere
-folding for research
-gimp for mersenne primes
-wecount
-freecodecamp translation
-refugee journalism project
- -->
