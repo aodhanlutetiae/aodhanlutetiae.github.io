@@ -1,0 +1,35 @@
+There are millions of words uttered in the Welsh parliament, the Senedd, each year. I've put together an app that lets you see the evolution of any word's frequency since 2016: https://seneddwords.streamlit.app/
+The word 'Facebook' appears less frequently, but 'Whatsapp' more often. 'Foodbanks' and 'ADHD' are rising, but anything related to Europe has been falling since 2016. There's more 'Putin', and less 'Boris'. Etc.
+
+What do they say in the Senedd?
+
+**The data**
+Parliamentary proceedings at the Senedd are available as [open data](https://record.senedd.wales/XMLExport) under an Open Government Licence. This comprises plenary sessions in the parliament and meetings of the [18 Senedd committees](https://senedd.wales/senedd-business/committees/).
+
+They Work For You have produced a simple list of all the *plenary* session transcripts as XML files, either in [English](https://www.theyworkforyou.com/pwdata/scrapedxml/senedd/en/) or in Welsh. This is what we're using.
+
+It was announced last year, following Welsh goverment funding. There doesn't seem to be API access for the Senedd debates.
+
+**The process**
+The files that run the app are available in a [github repository](https://github.com/aodhanlutetiae/senedd_words). 
+
+One file monitors the They Work For You list and is used to download fresh XML files each week. It then extracts the text and cleans it, and produces a dictionary of the years since 2016: each year (KEY) is accompanied by a list (VALUE) of tuples which contain a word, and the word's frequency that year.
+
+The other file uses [Streamlit](https://streamlit.io/) to take a word that is being queried and return a line chart through each year since 2016.
+
+**Analysis**
+Although the chart is designed to show evolution, it can also show what is never mentioned.
+
+In tech, we see Facebook falling off but Whatsapp picking up in recent years. Instagram features from 2018 and Tiktok from 2020. 
+
+Things European collapse from 2016: Brussels, EU, Europe, European, France and Germany all drop off over the following years. Although the term 'Brexit' spiked in 2019.
+
+News stories probably explain spikes in 'speed' (the 20 mph limit) or 'donation' (controversy over donation to Vaughan Gething). We see 'foodbank' peaking in 2021, towards the end of Covid and before the UK's cost of living crisis.
+
+UK leaders appear and disappear: Boris, Sunak and Truss.
+
+Companies appear: Tata, Amazon, Airbnb.
+
+Punk, rock and rap all appear!
+
+2022-23 was a busy period for allotments
