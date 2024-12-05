@@ -11,7 +11,7 @@ Here is some work, from polished and published to ... fun.
 
 [More and more cars in Britain (viz)](https://public.flourish.studio/visualisation/15591576/)
 
-[Twitter bot with a daily line of Shakespeare drama that mentions 'France'](https://twitter.com/france_via). No longer updating.
+[Bluesky bot with a daily line of Shakespeare drama that mentions 'France'](https://bsky.app/profile/francevia.bsky.social). 
 
 [A language-generator to complain about NGO-ese](https://ngo-button.glitch.me/)
 
