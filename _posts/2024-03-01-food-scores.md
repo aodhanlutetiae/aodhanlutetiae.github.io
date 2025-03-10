@@ -1,6 +1,7 @@
 ---
 title: 'Algorithm to suggest food inspections abandoned'
 date: 2024-03-01
+updated: 2025-03-010
 permalink: /posts/2024/03/blog-post-19/
 tags:
   - algorithms
@@ -22,7 +23,9 @@ The technology predicted two things: the hygiene rating of a food outlet that wa
 
 *Screenshot of (part of) how the tool might respond when asked about a specific local authority, with the names of the area's food outlets removed*
 
-Faced with a simple but pressing question after Covid, “Who should we inspect first?” the FSA paid the company Cognizant to build this technology. The model was to be used to identify which cases were most urgent, leaving local authority inspectors to establish the actual rating after a visit.
+Faced with a simple but pressing question after Covid, “Who should we inspect first?”, the FSA paid the technology company Cognizant to build this technology. The company's model was to be used to identify which cases were most urgent, leaving local authority inspectors to establish the actual rating after a visit.
+
+'Urgent' here meant those eateries that were predicted to fail an inspection.
 
 The code used to train the computer model was released in response to a Freedom of Information request along with an outline of the kinds of data that, once supplied to the computer system, would generate the two predictions.
 
@@ -35,6 +38,8 @@ A more detailed version of the machine’s response shows not just if an outlet 
 This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template), which was launched as a trial in late 2021 by two government offices that work on data. 
 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
+
+But this year (2025) there has been [an explosion](https://www.datawrapper.de/_/PLX0Y/) of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
 
 The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
 
