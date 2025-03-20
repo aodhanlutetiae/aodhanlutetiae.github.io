@@ -8,6 +8,7 @@ tags:
   - councils
   - food 
 ---
+*updated March 2025*
 
 UK food inspectors have abandoned plans to use an algorithm in part of their food hygiene rating system after a £100,000 trial. 
 
@@ -40,6 +41,8 @@ This technology was first described on a government platform to list algorithms 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
 But this year (2025) there has been [an explosion](https://www.datawrapper.de/_/PLX0Y/) of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
+
+<img src="/images/algo_reports.png" alt="drawing" width="600"/>
 
 The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
 
