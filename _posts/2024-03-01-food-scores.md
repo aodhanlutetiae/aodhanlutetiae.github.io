@@ -28,21 +28,13 @@ Faced with a simple but pressing question after Covid, “Who should we inspect 
 
 'Urgent' here meant those eateries that were predicted to fail an inspection.
 
-The code used to train the computer model was released in response to a Freedom of Information request along with an outline of the kinds of data that, once supplied to the computer system, would generate the two predictions.
+The code used to train the computer model was released in response to a Freedom of Information request along with an outline of the kinds of data that, once supplied to the computer system, would generate the two predictions. I was given an outline of the variables, along with the code used to build the computer model. A second FOI request returned two pieces of documentation: a user manual and an Ethical AI framework.
 
 A more detailed version of the machine’s response shows not just if an outlet is predicted to get a compliant rating (3-4-5) or non-compliant rating (0-1-2) but how *likely* it is to fall into a compliant category.
 
 <img src="/images/user_guide_p9.jpg" alt="drawing" width="600"/>
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
-
-This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template), which was launched as a trial in late 2021 by two government offices that work on data. 
-
-The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
-
-But this year (2025) there has been [an explosion](https://www.datawrapper.de/_/PLX0Y/) of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
-
-<img src="/images/algo_reports.png" alt="drawing" width="600"/>
 
 The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
 
@@ -68,8 +60,16 @@ The data that the machine read, in order to reach its conclusions was of three k
 What we *don't* have is the training data, i.e. the above information tied to existing Food Safety scores. Only by reading historical cases which link outlets to scores would the machine have been able to infer the likelihood of a new outlet being clean or dirty.
 
 
-**Methodology**
+**The algorithmic Transparency Recording Standard**
 
 The government platform was brought to my attention by a talk at [Open Data Camp 2023](https://www.odcamp.uk/) in Wolverhampton; the Transparency Recording Standard makes available [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai).
 
-After an FOI request, I was given an outline of the variables, along with the code used to build the computer model. A second FOI request returned two pieces of documentation: a user manual and an Ethical AI framework.
+This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template), which was launched as a trial in late 2021 by two government offices that work on data. 
+
+The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
+
+This year (2025) there has been [an explosion](https://www.datawrapper.de/_/PLX0Y/) of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
+
+<img src="/images/algo_reports.png" alt="drawing" width="600"/>
+
+Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence that is absent from the transparency platform. There are presumably many others missing too, even if the government's [dropping many proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
