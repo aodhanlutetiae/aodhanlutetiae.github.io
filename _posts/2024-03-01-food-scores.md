@@ -32,11 +32,11 @@ The code used to train the computer model was released in response to a Freedom 
 
 A more detailed version of the machine’s response shows not just if an outlet is predicted to get a compliant rating (3-4-5) or non-compliant rating (0-1-2) but how *likely* it is to fall into a compliant category.
 
-<img src="/images/user_guide_p9.jpg" alt="drawing" width="600"/>
+<img src="images/user_guide_p9_bigger.jpg" alt="drawing" width="600"/>
 
-*Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score*
+*Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score of 3, 4 or 5*
 
-The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". Also, many councils had found their own solutions to the backlog.
+The FSA technology was ultimately shelved because the Agency decided there were "ethical concerns" that data on demographics and the type of food prepared in different outlets "could result in biases for certain types of businesses". And by that stage, many councils had found their own solutions to the backlog.
 
 
 **How it works**
@@ -45,7 +45,7 @@ The FSA technology was ultimately shelved because the Agency decided there were 
 
 *Some of the code that trained the model from existing data and generated predictions for new data*
 
-There are two main aspects to how this worked: the data that was provided in order for the machine to infer the likelihood that a food outlet wasn't clean, and the code that read the data, generated the inferences, and returned a recommendation.
+There are two main ingredients to all of this: 1. the data the machine examined to decide the probability that a food outlet wasn't clean, and 2. the code that read the data, generated the inferences, and returned a recommendation.
 
 Although we haven't analysed the code in detail, we know already that it was based on three particular machine learning libraries: tensorflow, sklearn and lightgbm. (Libraries are third-party computer programs imported into some code to carry out particular tasks).
 
@@ -53,11 +53,11 @@ The data that the machine read, in order to reach its conclusions was of three k
 
 - the Food Standards Agency's own data: Is it a pub, or a hospital? Is it a chain restaurant? Which local authority is it in? 
 
-- census information from the local authority area: population size, age structure and density; residents’ country of birth, passport and language; house prices and economic situation; employment data; life expectancy and disability rate.
+- census information from the local authority area where the food outlet is located: population size, age structure and density; residents’ country of birth, passport and language; house prices and economic situation; employment data; life expectancy and disability rate.
 
-- retail information for app developers from an online database. As well as the kind of food business and the opening hours, this appears to have told the model if the food outlet could be described as Chinese, Asian, Middle Eastern or Indian. 
+- retail information for app developers from an online database. As well as the kind of food business and the opening hours, this appears to have told the machine if the food outlet could be described as Chinese, Asian, Middle Eastern, Indian etc.
 
-What we *don't* have is the training data, i.e. the above information tied to existing Food Safety scores. Only by reading historical cases which link outlets to scores would the machine have been able to infer the likelihood of a new outlet being clean or dirty.
+What we *don't* have is the training data, i.e. the above information tied to previous Food Safety scores. Only by reading historical cases which link outlets to scores would the machine have been able to infer the likelihood of a new outlet being clean or dirty.
 
 
 **The algorithmic Transparency Recording Standard**
@@ -68,8 +68,8 @@ This technology was first described on a government platform to list algorithms 
 
 The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
-This year (2025) there has been [an explosion](https://www.datawrapper.de/_/PLX0Y/) of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
+This year (2025) there has been a sharp increase in the number of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
 
 <img src="/images/algo_reports.png" alt="drawing" width="600"/>
 
-Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence that is absent from the transparency platform. There are presumably many others missing too, even if the government's [dropping many proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
+Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence and this tool is absent from the transparency platform. There are presumably many others missing too, even if the government's [dropping many proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
