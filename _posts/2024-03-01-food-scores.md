@@ -32,7 +32,7 @@ The code used to train the computer model was released in response to a Freedom 
 
 A more detailed version of the machine’s response shows not just if an outlet is predicted to get a compliant rating (3-4-5) or non-compliant rating (0-1-2) but how *likely* it is to fall into a compliant category.
 
-<img src="images/user_guide_p9_bigger.jpg" alt="drawing" width="600"/>
+<img src="/images/user_guide_p9_bigger.jpg" alt="drawing" width="600"/>
 
 *Part of a response, showing how likely it is that food outlets will get a higher, ‘compliant’ score of 3, 4 or 5*
 
