@@ -60,16 +60,14 @@ The data that the machine read, in order to reach its conclusions was of three k
 What we *don't* have is the training data, i.e. the above information tied to previous Food Safety scores. Only by reading historical cases which link outlets to scores would the machine have been able to infer the likelihood of a new outlet being clean or dirty.
 
 
-**The algorithmic Transparency Recording Standard**
+**The Algorithmic Transparency Recording Standard**
 
-The government platform was brought to my attention by a talk at [Open Data Camp 2023](https://www.odcamp.uk/) in Wolverhampton; the Transparency Recording Standard makes available [an outline of the technology](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai).
+This technology was [first described](https://www.gov.uk/government/publications/food-standards-agency-food-hygiene-rating-scheme-ai/food-standards-agency-food-hygiene-rating-scheme-ai) on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template) was launched as a trial in late 2021 (and was discussed at [Open Data Camp 2023](https://www.odcamp.uk/)).
 
-This technology was first described on a government platform to list algorithms that are used in the public sector: the [Algorithmic Transparency Recording Standard](https://www.gov.uk/government/publications/algorithmic-transparency-template), which was launched as a trial in late 2021 by two government offices that work on data. 
+The [details of just six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
 
-The details of just [six algorithms](https://www.gov.uk/government/collections/algorithmic-transparency-reports) were published the following year and publication resumed early this year with the details of [an algorithm developed](https://www.gov.uk/government/publications/cabinet-office-automated-digital-document-review) for the Cabinet Office.
+This year (2025) there has been a sharp increase in the number of algorithm details released: reports on 44 different algorithms used in the public sector have been published in the first five months of the year.
 
-This year (2025) there has been a sharp increase in the number of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
-
-<img src="/algo_pickup2025.jpg" alt="drawing" width="600"/>
+<img src="/images/algo_pickup2025.jpg" alt="drawing" width="600"/>
 
 Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence and this tool is absent from the transparency platform. There are presumably many others missing too, even if the government's [dropping many proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
