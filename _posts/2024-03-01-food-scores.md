@@ -70,6 +70,6 @@ The details of just [six algorithms](https://www.gov.uk/government/collections/a
 
 This year (2025) there has been a sharp increase in the number of algorithm details released: reports on 32 different algorithms used in the public sector have been published in the first two months of the year.
 
-<img src="/images/algo_reports.png" alt="drawing" width="600"/>
+<img src="/algo_pickup2025.jpg" alt="drawing" width="600"/>
 
 Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence and this tool is absent from the transparency platform. There are presumably many others missing too, even if the government's [dropping many proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
