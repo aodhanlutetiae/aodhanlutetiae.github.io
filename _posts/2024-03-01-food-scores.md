@@ -70,4 +70,4 @@ This year (2025) there has been a sharp increase in the number of algorithm deta
 
 <img src="/images/algo_pickup2025_.jpg" alt="drawing" width="600"/>
 
-Although, as [noted by the Guardian](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants), the Department of Work and Pensions uses a piece of AI technology to review correspondence and this tool is absent from the transparency platform. There are presumably many others missing too, even if the government's [abandoning several proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
+[The Guardian reported that](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants) the Department of Work and Pensions uses a piece of AI technology to review correspondence and that this tool was absent from the transparency platform. There are presumably many others missing too, even if the government's [abandoning several proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
