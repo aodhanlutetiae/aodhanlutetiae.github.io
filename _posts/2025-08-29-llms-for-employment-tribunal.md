@@ -1,6 +1,6 @@
 ---
 title: Use an LLM to monitor the Employment Tribunal
-date: 2025-08-29
+date: 2025-08-22
 permalink: /posts/2025/08/blog-post-21/
 tags:
   - LLMs
