@@ -7,7 +7,9 @@ tags:
   - Employment tribunal
 ---
 
-The Employment Tribunal hears claims from people who say an employer "has treated them unlawfully". The rulings for Great Britain are published online and there are more than 120,000 of them (since 2016). This collection of PDFs was used very effectively a few years ago by Bloomberg journalists for [How corporate Britain hides thousands of sex discrimination cases](https://www.bloomberg.com/graphics/2019-uk-sexual-discrimination-settlements/).
+The Employment Tribunal hears claims from people who say an employer "has treated them unlawfully". 
+
+The rulings for Great Britain are published online and there are more than 120,000 of them (since 2016). This collection of PDFs was used very effectively a few years ago by Bloomberg journalists for [How corporate Britain hides thousands of sex discrimination cases](https://www.bloomberg.com/graphics/2019-uk-sexual-discrimination-settlements/).
 
 Can an LLM review a large number of these documents and point to possible stories? And can it do it *offline*, since the next batch of PDFs might not be something we want to work on confidentialy and not upload to an LLM chatbot platform?
 
@@ -30,7 +32,7 @@ One ruling (Case No: 2408905/2023) involves a claimant who alleged age-related h
 *Little value here*
 
 **Age threshold variability**: Notable that one case (Case No: 3300980/2021) has a pleaded age threshold of 40, which is significantly higher than the typical retirement age of 65-68 in the UK.
-*This [case](https://www.gov.uk/employment-tribunal-decisions/miss-t-donaldson-and-mrs-t-de-mello-v-british-airways-plc-3300980-slash-2021-and-3301038-slash-2021)... *
+*The [case](https://www.gov.uk/employment-tribunal-decisions/miss-t-donaldson-and-mrs-t-de-mello-v-british-airways-plc-3300980-slash-2021-and-3301038-slash-2021) here*
 
 **Unusual comparator selection**: In some cases (e.g., Case Nos: 3301038/2021), the respondent accepts that part-time workers are the correct comparator for full-time employees, which could indicate a shift in employment practices or policies.
 *This is another part of the same case...*
