@@ -15,7 +15,7 @@ Can an LLM review a large number of these documents and point to possible storie
 
 I collected the rulings for 200 cases of alleged age discrimination at work in England & Wales in 2025, which generated 309 PDFs (some rulings have more than one document). Can an LLM look at these for possible leads?
 
-These rulings [are listed here on the Tribunal website](https://www.gov.uk/employment-tribunal-decisions?tribunal_decision_country%5B%5D=england-and-wales&tribunal_decision_categories%5B%5D=age-discrimination&tribunal_decision_decision_date%5Bfrom%5D=01/01/2025 (as of mid-November 2025, a few months later).
+These rulings [are listed here on the Tribunal website](https://www.gov.uk/employment-tribunal-decisions?tribunal_decision_country%5B%5D=england-and-wales&tribunal_decision_categories%5B%5D=age-discrimination&tribunal_decision_decision_date%5Bfrom%5D=01/01/2025) (as of mid-November 2025, a few months later).
 
 I supplied the following prompt as context (after some early results that were far too general): 
 
@@ -37,32 +37,42 @@ In another ruling (Case No: 2408905/2023), the claimant's unfair dismissal, age 
 
 — Little value here*
 
-**Age threshold variability**: Notable that one case (Case No: 3300980/2021) has a pleaded age threshold of 40, which is significantly higher than the typical retirement age of 65-68 in the UK.
-*The [case](https://www.gov.uk/employment-tribunal-decisions/miss-t-donaldson-and-mrs-t-de-mello-v-british-airways-plc-3300980-slash-2021-and-3301038-slash-2021) here*
+***Age threshold variability**: Notable that one case (Case No: 3300980/2021) has a pleaded age threshold of 40, which is significantly higher than the typical retirement age of 65-68 in the UK.*
 
-**Unusual comparator selection**: In some cases (e.g., Case Nos: 3301038/2021), the respondent accepts that part-time workers are the correct comparator for full-time employees, which could indicate a shift in employment practices or policies.
-*This is another part of the same case...*
+— The [case](https://www.gov.uk/employment-tribunal-decisions/miss-t-donaldson-and-mrs-t-de-mello-v-british-airways-plc-3300980-slash-2021-and-3301038-slash-2021) here.
 
-**Increased scrutiny of retirement age policies**: With multiple cases related to alleged age discrimination, there may be an opportunity to explore whether employers' retirement age policies are being challenged more frequently and why.
-*Unhelpful*
+***Unusual comparator selection**: In some cases (e.g., Case Nos: 3301038/2021), the respondent accepts that part-time workers are the correct comparator for full-time employees, which could indicate a shift in employment practices or policies.*
 
-**Growing awareness of indirect age discrimination**: Some cases (e.g., Case No: 2408905/2023) involve allegations of indirect age discrimination, which could indicate a growing understanding among employees of the different forms of age-related unfair treatment in the workplace.
-*This is the first case again, involving Lancaster University*
+ — This is another part of the same case...
 
-**Impact of COVID-19 on employment practices and policies**: The Employment Tribunal rulings may provide insights into how the pandemic has influenced employers' decisions regarding retirement ages, part-time work, or other aspects of employment that can contribute to age discrimination. These leads are specific to the collection of Employment Tribunal rulings from 2025 and highlight potential stories related to age discrimination in the workplace.
-*Unhelpful*
+***Increased scrutiny of retirement age policies**: With multiple cases related to alleged age discrimination, there may be an opportunity to explore whether employers' retirement age policies are being challenged more frequently and why.*
 
-**Unsuccessful age discrimination claims**: Many of the cases have been dismissed due to a lack of evidence or failing to meet the burden of proof. This could be an opportunity to explore the common pitfalls and challenges in bringing age discrimination claims.
-*Unhelpful*
+— Unhelpful
 
-**Age-related harassment**: Several cases involve allegations of age-related harassment, which may not be widely reported on. Investigating the prevalence and impact of this type of discrimination could lead to a newsworthy story.
-*Is age-related harassment worth looking into?*
+***Growing awareness of indirect age discrimination**: Some cases (e.g., Case No: 2408905/2023) involve allegations of indirect age discrimination, which could indicate a growing understanding among employees of the different forms of age-related unfair treatment in the workplace.*
 
-**Inadequate tribunal processes**: Some cases highlight issues with the Employment Tribunal's procedures, such as delays or difficulties in obtaining justice. This could spark a discussion about improving the system.
-*May be worth looking at*
+— This is the first case again, involving Lancaster University.
 
-**Unusual case scenarios**: One ruling involves a claimant seeking to amend their claim after a preliminary hearing. Another case highlights the potential for age-related discrimination in benefit packages. These unusual scenarios might make for an interesting and unique story.
-*May be worth looking at*
+***Impact of COVID-19 on employment practices and policies**: The Employment Tribunal rulings may provide insights into how the pandemic has influenced employers' decisions regarding retirement ages, part-time work, or other aspects of employment that can contribute to age discrimination. These leads are specific to the collection of Employment Tribunal rulings from 2025 and highlight potential stories related to age discrimination in the workplace.*
 
-**Lack of judicial resources**: A few cases were adjourned due to a lack of judicial resources, which could be an opportunity to explore the impact of funding constraints on the Employment Tribunal's ability to deliver justice.
-*May be worth looking at*
+— Unhelpful.
+
+***Unsuccessful age discrimination claims**: Many of the cases have been dismissed due to a lack of evidence or failing to meet the burden of proof. This could be an opportunity to explore the common pitfalls and challenges in bringing age discrimination claims.*
+
+— Unhelpful.
+
+***Age-related harassment**: Several cases involve allegations of age-related harassment, which may not be widely reported on. Investigating the prevalence and impact of this type of discrimination could lead to a newsworthy story.*
+
+— Is age-related harassment worth looking into?
+
+***Inadequate tribunal processes**: Some cases highlight issues with the Employment Tribunal's procedures, such as delays or difficulties in obtaining justice. This could spark a discussion about improving the system.*
+
+— May be worth looking at.
+
+***Unusual case scenarios**: One ruling involves a claimant seeking to amend their claim after a preliminary hearing. Another case highlights the potential for age-related discrimination in benefit packages. These unusual scenarios might make for an interesting and unique story.*
+
+— May be worth looking at.
+
+***Lack of judicial resources**: A few cases were adjourned due to a lack of judicial resources, which could be an opportunity to explore the impact of funding constraints on the Employment Tribunal's ability to deliver justice.*
+
+— May be worth looking at.
