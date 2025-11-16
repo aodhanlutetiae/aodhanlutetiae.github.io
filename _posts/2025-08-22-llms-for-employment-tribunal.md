@@ -15,6 +15,8 @@ Can an LLM review a large number of these documents and point to possible storie
 
 I collected the rulings for 200 cases of alleged age discrimination at work in England & Wales in 2025, which generated 309 PDFs (some rulings have more than one document). Can an LLM look at these for possible leads?
 
+These rulings [are listed here on the Tribunal website](https://www.gov.uk/employment-tribunal-decisions?tribunal_decision_country%5B%5D=england-and-wales&tribunal_decision_categories%5B%5D=age-discrimination&tribunal_decision_decision_date%5Bfrom%5D=01/01/2025 (as of mid-November 2025, a few months later).
+
 I supplied the following prompt as context (after some early results that were far too general): 
 
 "This is a collection of rulings from the Employment Tribunal in England and Wales in 2025. They all pertain to alleged age discrimination in the workplace. What points might be useful leads for journalists? Be concise and specific. Avoid generalities since we know what the documents are about. We are looking for what is unusual, widespread or newsworthy."
@@ -26,11 +28,14 @@ One ruling (Case No: 2408905/2023) involves a claimant who alleged age-related h
 
 — The [case](https://assets.publishing.service.gov.uk/media/684a9b3824224d02f84137c8/Mrs_R_Wilkinson_v_Lancaster_University_-_2408905_2023_-_Judgment.pdf) is easy to find with the number. There seems to be little value however in the case, which lapsed after the claimant didn't pay "the deposits ordered".
 
-**Striking out unfair dismissal claims due to lack of deposits**: In another ruling (Case No: 2408905/2023), the claimant's unfair dismissal, age discrimination, and harassment-related claims were struck out due to failure to pay required deposits. This could be a lead worth exploring if there are concerns about the process or fairness in Employment Tribunal proceedings.
-*This refers to the same case. Worth at least trying to understand what "deposits" are in this context*
+***Striking out unfair dismissal claims due to lack of deposits**: 
+In another ruling (Case No: 2408905/2023), the claimant's unfair dismissal, age discrimination, and harassment-related claims were struck out due to failure to pay required deposits. This could be a lead worth exploring if there are concerns about the process or fairness in Employment Tribunal proceedings.*
 
-**Direct age discrimination claims dismissed**: Many of the rulings involve direct age discrimination claims being dismissed. Journalists might want to investigate what factors contributed to these dismissals and whether there are common themes or patterns among the rejected claims. These leads could provide interesting stories on age-related workplace issues, Employment Tribunal procedures, or possible systemic problems that need to be addressed.
-*Little value here*
+— This refers to the same case. Worth at least trying to understand what "deposits" are in this context.
+
+***Direct age discrimination claims dismissed**: Many of the rulings involve direct age discrimination claims being dismissed. Journalists might want to investigate what factors contributed to these dismissals and whether there are common themes or patterns among the rejected claims. These leads could provide interesting stories on age-related workplace issues, Employment Tribunal procedures, or possible systemic problems that need to be addressed.*
+
+— Little value here*
 
 **Age threshold variability**: Notable that one case (Case No: 3300980/2021) has a pleaded age threshold of 40, which is significantly higher than the typical retirement age of 65-68 in the UK.
 *The [case](https://www.gov.uk/employment-tribunal-decisions/miss-t-donaldson-and-mrs-t-de-mello-v-british-airways-plc-3300980-slash-2021-and-3301038-slash-2021) here*
