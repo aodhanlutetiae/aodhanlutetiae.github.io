@@ -21,8 +21,7 @@ I supplied the following prompt as context (after some early results that were f
 
 Here are the suggestions the LLM made, after I ran the query a few times, with some comments on how valuable the suggestion appears.
 
-*
-**Age-related harassment in universities**: 
+***Age-related harassment in universities**: 
 One ruling (Case No: 2408905/2023) involves a claimant who alleged age-related harassment at Lancaster University. This might be a useful lead to explore if there are patterns or systemic issues with age-based discrimination in higher education institutions.*
 
 — The [case](https://assets.publishing.service.gov.uk/media/684a9b3824224d02f84137c8/Mrs_R_Wilkinson_v_Lancaster_University_-_2408905_2023_-_Judgment.pdf) is easy to find with the number. There seems to be little value however in the case, which lapsed after the claimant didn't pay "the deposits ordered".
