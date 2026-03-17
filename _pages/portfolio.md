@@ -12,8 +12,8 @@ Here is some work, from polished and published to ... fun.
 [More and more cars in Britain (viz)](https://public.flourish.studio/visualisation/15591576/)
 
 [Bluesky bot with a daily line of Shakespeare drama that mentions 'France'](https://bsky.app/profile/francevia.bsky.social) 
-
-[A language-generator to complain about NGO-ese](https://ngo-button.glitch.me/)
+<!-- 
+[A language-generator to complain about NGO-ese](https://ngo-button.glitch.me/) -->
 
 [An Irish hospital in Normandy, *RTE Radio 1*](https://www.rte.ie/radio1/doconone/2020/0828/1161799-the-hospital-the-irish-shipped-to-france/)
 

@@ -68,6 +68,6 @@ The details of just six algorithms were published the following year and publica
 
 This year (2025) there has been a sharp increase in the number of algorithm details released: reports on 49 different algorithms used in the public sector have been published in the first six months of the year.
 
-<img src="/images/algo_pickup2025_.jpg" alt="drawing" width="600"/>
+<img src="/images/chart_fsa.png" alt="drawing" width="600"/>
 
 [The Guardian reported that](https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants) the Department of Work and Pensions uses a piece of AI technology to review correspondence and that this tool was absent from the transparency platform. There are presumably many others missing too, even if the government's [abandoning several proposed AI tools](https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped).
